@@ -1,0 +1,122 @@
+[
+  {
+    "time": "Trade #1",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #6",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #1",
+    "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -1.0
+  }
+]
