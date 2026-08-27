@@ -118,5 +118,29 @@
     "type": "VENDA",
     "qty": 1,
     "pnl": -1.0
+  },
+  {
+    "time": "Trade #1",
+    "strategy": "MTRADE 27AGO",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 120.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "MTRADE 27AGO",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 115.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "MTRADE 27AGO",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 99.0
   }
 ]
