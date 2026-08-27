@@ -105,6 +105,222 @@
   },
   {
     "time": "Trade #1",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 19.0
+  },
+  {
+    "time": "Trade #6",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 34.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 24.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 8.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 25.0
+  },
+  {
+    "time": "Trade #11",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 16.0
+  },
+  {
+    "time": "Trade #12",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 36.0
+  },
+  {
+    "time": "Trade #13",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #14",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 21.0
+  },
+  {
+    "time": "Trade #15",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 31.0
+  },
+  {
+    "time": "Trade #16",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 24.0
+  },
+  {
+    "time": "Trade #17",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #18",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 36.0
+  },
+  {
+    "time": "Trade #19",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -3.0
+  },
+  {
+    "time": "Trade #20",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 22.0
+  },
+  {
+    "time": "Trade #21",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 15.0
+  },
+  {
+    "time": "Trade #22",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #23",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -2.0
+  },
+  {
+    "time": "Trade #24",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 1.0
+  },
+  {
+    "time": "Trade #25",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #26",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "Trade #27",
+    "strategy": "AGOSTO KELTNER",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 27.0
+  },
+  {
+    "time": "Trade #1",
     "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
     "asset": "WINV26",
     "type": "COMPRA",
