@@ -80,6 +80,30 @@
     "pnl": 40.0
   },
   {
+    "time": "Trade #11",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #12",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #13",
+    "strategy": "27 DE AGOSTO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
     "time": "Trade #1",
     "strategy": "KELTNER 1 MIN 27 DE AGOSTO",
     "asset": "WINV26",
