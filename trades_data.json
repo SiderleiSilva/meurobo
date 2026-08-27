@@ -166,5 +166,533 @@
     "type": "VENDA",
     "qty": 1,
     "pnl": 99.0
+  },
+  {
+    "time": "Trade #1",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #6",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #11",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #12",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #13",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #14",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #15",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #16",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #17",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #18",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #19",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #20",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #21",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #22",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #23",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #24",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #25",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #26",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #27",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #28",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #29",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #30",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #31",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #32",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #33",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #34",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #35",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #36",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #37",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #38",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #39",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #40",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #41",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #42",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #43",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #44",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #45",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #46",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #47",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #48",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #49",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #50",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #51",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #52",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #53",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -27.0
+  },
+  {
+    "time": "Trade #54",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #55",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #56",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #57",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #58",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #59",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #60",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #61",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #62",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #63",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #64",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 40.0
+  },
+  {
+    "time": "Trade #65",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #66",
+    "strategy": "SEMANAL24-28",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
   }
 ]
