@@ -89,6 +89,1534 @@
   },
   {
     "time": "Trade #1",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #6",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -25.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #11",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #12",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #13",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #14",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #15",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #16",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #17",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #18",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #19",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #20",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #21",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #22",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #23",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #24",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #25",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #26",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #27",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #28",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -25.0
+  },
+  {
+    "time": "Trade #29",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #30",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #31",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #32",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #33",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #34",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #35",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #36",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #37",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #38",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #39",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #40",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 10.0
+  },
+  {
+    "time": "Trade #41",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #42",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #43",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #44",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #45",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #46",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #47",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #48",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -35.0
+  },
+  {
+    "time": "Trade #49",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #50",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #51",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #52",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #53",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #54",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #55",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #56",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #57",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #58",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #59",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #60",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #61",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #62",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #63",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #64",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #65",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #66",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #67",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #68",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #69",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #70",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -20.0
+  },
+  {
+    "time": "Trade #71",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #72",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #73",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #74",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #75",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #76",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #77",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #78",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #79",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #80",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #81",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -20.0
+  },
+  {
+    "time": "Trade #82",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #83",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #84",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #85",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #86",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #87",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #88",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #89",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #90",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #91",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #92",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #93",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #94",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #95",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #96",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #97",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #98",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #99",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #100",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #101",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #102",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #103",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #104",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 15.0
+  },
+  {
+    "time": "Trade #105",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #106",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #107",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #108",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #109",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #110",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #111",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #112",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #113",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #114",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #115",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 15.0
+  },
+  {
+    "time": "Trade #116",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #117",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #118",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #119",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #120",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #121",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #122",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #123",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #124",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #125",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #126",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #127",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 35.0
+  },
+  {
+    "time": "Trade #128",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #129",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #130",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #131",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #132",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #133",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #134",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #135",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #136",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #137",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #138",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #139",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #140",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #141",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #142",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #143",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #144",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #145",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #146",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #147",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #148",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #149",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #150",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #151",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #152",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #153",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #154",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #155",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #156",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #157",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 10.0
+  },
+  {
+    "time": "Trade #158",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #159",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #160",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #161",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #162",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #163",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #164",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 20.0
+  },
+  {
+    "time": "Trade #165",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #166",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #167",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #168",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #169",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #170",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #171",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #172",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #173",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 45.0
+  },
+  {
+    "time": "Trade #174",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #175",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #176",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #177",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #178",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #179",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #180",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #181",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #182",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #183",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #184",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #185",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #186",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #187",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #188",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #189",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #190",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #191",
+    "strategy": "WDOESTRATÉGIA-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #1",
     "strategy": "WDOESTRATÉGIA-SEMANAL",
     "asset": "WDOU26",
     "type": "COMPRA",
