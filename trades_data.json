@@ -1,6 +1,110 @@
 [
   {
     "time": "Trade #1",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 2.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 52.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 59.0
+  },
+  {
+    "time": "Trade #6",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -90.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -90.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 73.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 74.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #11",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "Trade #12",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #13",
+    "strategy": "EU-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #1",
     "strategy": "WDOESTRATÉGIA-28-08",
     "asset": "WDOU26",
     "type": "COMPRA",
