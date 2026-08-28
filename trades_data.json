@@ -152,6 +152,30 @@
     "pnl": -30.0
   },
   {
+    "time": "Trade #7",
+    "strategy": "28WIN_2MIN",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "28WIN_2MIN",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "28WIN_2MIN",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
     "time": "Trade #1",
     "strategy": "28WIN_2MIN_EU",
     "asset": "WINV26",
