@@ -216,6 +216,46 @@
     "pnl": 59.0
   },
   {
+    "time": "Trade #6",
+    "strategy": "28WIN_2MIN_EU",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -90.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "28WIN_2MIN_EU",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -90.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "28WIN_2MIN_EU",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 73.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "28WIN_2MIN_EU",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 74.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "28WIN_2MIN_EU",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
     "time": "Trade #1",
     "strategy": "AGOSTO KELTNER",
     "asset": "WINV26",
