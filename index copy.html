@@ -4,12 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Painel de Monitoramento de Estratégias</title>
-    
-    <!-- TAGS ANTI-CACHE: Para carregar sempre a versão mais recente -->
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-
+    <meta http-equiv="Expires" content="0" />   
     <style>
         :root {
             --bg-dark: #121418;
@@ -58,7 +55,7 @@
 
         .metrics-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 15px;
             margin-bottom: 25px;
         }
@@ -139,29 +136,22 @@
     <div class="header">
         <h1>📊 Monitor de Estratégias - Profit Pro</h1>
         <div>
-            <label for="strategyFilter" style="color: var(--text-sub); margin-right: 10px;">Filtrar Estratégia:</label>
-            <select id="strategyFilter" class="strategy-selector">
+            <label for="strategySelect" style="color: var(--text-sub); font-size: 0.9rem; margin-right: 8px;">Filtrar Estratégia:</label>
+            <select id="strategySelect" class="strategy-selector" onchange="filterStrategy()">
                 <option value="ALL">Todas as Estratégias (Consolidado)</option>
             </select>
         </div>
     </div>
 
+    <!-- Métricas Globais ou Filtradas -->
     <div class="metrics-grid">
         <div class="metric-card">
             <div class="title">Resultado do Dia</div>
-            <div class="value" id="totalPnl">R$ 0.00</div>
+            <div class="value" id="totalPnl">R$ 0,00</div>
         </div>
         <div class="metric-card">
             <div class="title">Taxa de Acerto (Win Rate)</div>
-            <div class="value" id="winRate">0.0%</div>
-        </div>
-        <div class="metric-card">
-            <div class="title">Operações Gain</div>
-            <div class="value gain" id="gainCount">0</div>
-        </div>
-        <div class="metric-card">
-            <div class="title">Operações Loss</div>
-            <div class="value loss" id="lossCount">0</div>
+            <div class="value" id="winRate">0%</div>
         </div>
         <div class="metric-card">
             <div class="title">Total de Operações</div>
@@ -173,8 +163,9 @@
         </div>
     </div>
 
+    <!-- Tabela de Trades -->
     <div class="table-container">
-        <h2 class="table-title">Histórico de Operações</h2>
+        <h3 class="table-title">Histórico de Operações</h3>
         <table>
             <thead>
                 <tr>
@@ -186,105 +177,112 @@
                     <th>Resultado (R$)</th>
                 </tr>
             </thead>
-            <tbody id="tradesTableBody">
+            <tbody id="tradeHistory">
                 <!-- Preenchido via JavaScript -->
             </tbody>
         </table>
     </div>
 
     <script>
-        let allTrades = [];
+        let tradesData = [];
 
-        async function loadData() {
+        // Busca dados reais gerados pelo Python
+        async function loadTradesData() {
             try {
                 const response = await fetch('trades_data.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('Erro ao carregar os dados');
-                allTrades = await response.json();
-                
-                populateStrategyFilter();
-                renderDashboard('ALL');
+                if (response.ok) {
+                    tradesData = await response.json();
+                    updateStrategyDropdown();
+                    filterStrategy();
+                }
             } catch (error) {
-                console.error("Erro na requisição:", error);
+                console.log("Aguardando geração do trades_data.json...");
             }
         }
 
-        function populateStrategyFilter() {
-            const select = document.getElementById('strategyFilter');
-            const strategies = [...new Set(allTrades.map(t => t.strategy))];
+        // Atualiza o menu de filtro conforme as estratégias encontradas no arquivo
+        function updateStrategyDropdown() {
+            const select = document.getElementById("strategySelect");
+            const currentValue = select.value;
+            
+            const strategies = [...new Set(tradesData.map(t => t.strategy))];
             
             select.innerHTML = '<option value="ALL">Todas as Estratégias (Consolidado)</option>';
             
             strategies.forEach(strat => {
-                const option = document.createElement('option');
+                const option = document.createElement("option");
                 option.value = strat;
                 option.textContent = strat;
                 select.appendChild(option);
             });
 
-            select.addEventListener('change', (e) => {
-                renderDashboard(e.target.value);
-            });
+            if (strategies.includes(currentValue)) {
+                select.value = currentValue;
+            }
         }
 
-        function renderDashboard(selectedStrategy) {
-            const filteredTrades = selectedStrategy === 'ALL' 
-                ? allTrades 
-                : allTrades.filter(t => t.strategy === selectedStrategy);
+        function filterStrategy() {
+            const selected = document.getElementById("strategySelect").value;
+            const filtered = selected === "ALL" 
+                ? tradesData 
+                : tradesData.filter(t => t.strategy === selected);
 
-            // Cálculos das métricas
-            const totalPnl = filteredTrades.reduce((acc, t) => acc + t.pnl, 0);
-            const gains = filteredTrades.filter(t => t.pnl > 0);
-            const losses = filteredTrades.filter(t => t.pnl < 0);
-            const totalTradesCount = filteredTrades.length;
-            
-            const winRate = totalTradesCount > 0 ? ((gains.length / totalTradesCount) * 100).toFixed(1) : 0.0;
-            
-            const sumGain = gains.reduce((acc, t) => acc + t.pnl, 0);
-            const sumLoss = Math.abs(losses.reduce((acc, t) => acc + t.pnl, 0));
-            
-            let payoff = "0.00";
-            if (sumLoss > 0) {
-                payoff = (sumGain / sumLoss).toFixed(2);
-            } else if (sumGain > 0) {
-                payoff = "∞";
+            renderMetrics(filtered);
+            renderTable(filtered);
+        }
+
+        function renderMetrics(trades) {
+            if (!trades || trades.length === 0) {
+                document.getElementById("totalPnl").innerText = "R$ 0,00";
+                document.getElementById("winRate").innerText = "0%";
+                document.getElementById("totalTrades").innerText = "0";
+                document.getElementById("payoff").innerText = "0.00";
+                return;
             }
 
-            // Atualizar DOM - Métricas
-            const pnlElement = document.getElementById('totalPnl');
-            pnlElement.textContent = `R$ ${totalPnl.toFixed(2)}`;
+            const totalPnl = trades.reduce((acc, t) => acc + t.pnl, 0);
+            const wins = trades.filter(t => t.pnl > 0);
+            const losses = trades.filter(t => t.pnl < 0);
+            
+            const winRate = ((wins.length / trades.length) * 100).toFixed(1);
+            
+            const grossProfit = wins.reduce((acc, t) => acc + t.pnl, 0);
+            const grossLoss = Math.abs(losses.reduce((acc, t) => acc + t.pnl, 0));
+            const payoff = grossLoss === 0 ? grossProfit.toFixed(2) : (grossProfit / grossLoss).toFixed(2);
+
+            const pnlElement = document.getElementById("totalPnl");
+            pnlElement.innerText = `R$ ${totalPnl.toFixed(2)}`;
             pnlElement.className = `value ${totalPnl >= 0 ? 'gain' : 'loss'}`;
 
-            document.getElementById('winRate').textContent = `${winRate}%`;
-            document.getElementById('gainCount').textContent = gains.length;
-            document.getElementById('lossCount').textContent = losses.length;
-            document.getElementById('totalTrades').textContent = totalTradesCount;
-            document.getElementById('payoff').textContent = payoff;
+            document.getElementById("winRate").innerText = `${winRate}%`;
+            document.getElementById("totalTrades").innerText = trades.length;
+            document.getElementById("payoff").innerText = payoff;
+        }
 
-            // Renderizar Tabela
-            const tbody = document.getElementById('tradesTableBody');
-            tbody.innerHTML = '';
+        function renderTable(trades) {
+            const tbody = document.getElementById("tradeHistory");
+            tbody.innerHTML = "";
 
-            filteredTrades.forEach((trade, index) => {
-                const tr = document.createElement('tr');
-                
-                const isGain = trade.pnl >= 0;
-                const pnlClass = isGain ? 'gain' : 'loss';
-                const badgeClass = trade.type === 'COMPRA' ? 'badge-buy' : 'badge-sell';
+            trades.forEach(t => {
+                const row = document.createElement("tr");
+                const badgeClass = t.type === "COMPRA" ? "badge-buy" : "badge-sell";
+                const pnlClass = t.pnl >= 0 ? "gain" : "loss";
 
-                tr.innerHTML = `
-                    <td>${trade.time || `Trade #${index + 1}`}</td>
-                    <td><strong>${trade.strategy}</strong></td>
-                    <td>${trade.asset || 'WIN'}</td>
-                    <td><span class="badge ${badgeClass}">${trade.type}</span></td>
-                    <td>${trade.qty || 1}</td>
-                    <td class="${pnlClass}"><strong>R$ ${trade.pnl.toFixed(2)}</strong></td>
+                row.innerHTML = `
+                    <td>${t.time}</td>
+                    <td><strong>${t.strategy}</strong></td>
+                    <td>${t.asset}</td>
+                    <td><span class="badge ${badgeClass}">${t.type}</span></td>
+                    <td>${t.qty}</td>
+                    <td class="${pnlClass}"><strong>R$ ${t.pnl.toFixed(2)}</strong></td>
                 `;
-                tbody.appendChild(tr);
+                tbody.appendChild(row);
             });
         }
 
-        // Inicia o carregamento dos dados
-        loadData();
+        // Checa por atualizações a cada 3 segundos
+        setInterval(loadTradesData, 3000);
+        loadTradesData();
     </script>
 </body>
 </html>
