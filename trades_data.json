@@ -1977,6 +1977,110 @@
   },
   {
     "time": "Trade #1",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "Trade #6",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #7",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "Trade #8",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #9",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "Trade #10",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "Trade #11",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #12",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #13",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 34.0
+  },
+  {
+    "time": "Trade #1",
     "strategy": "ÌNDICEESTRATÉGIA-MENSAL",
     "asset": "WINV26",
     "type": "VENDA",
