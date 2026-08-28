@@ -1,8 +1,0 @@
-Conta: 26471
-Titular: SIDERLEI SILVA
-Data: 27/08/2026
-
-Ativo;Abertura;Tempo Operação;Qtd Compra;Qtd Venda;Lado;Médio;Res. Intervalo Bruto;Res. Intervalo (%);Res. Operação;Res. Operação (%);TET;Total
-WDOU26;27/08/2026 09:00:46;5min2s;2;2;V;Não;120,00;6,00;120,00;6,00; - ;120,00
-WDOU26;27/08/2026 09:11:43;13min13s;2;2;C;Não;115,00;5,75;115,00;5,75;10min57s;235,00
-WINV26;27/08/2026 09:25:13;24s;3;3;V;Não;99,00;165,00;99,00;165,00;13min29s;334,00
