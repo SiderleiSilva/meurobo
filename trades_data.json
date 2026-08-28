@@ -2181,7 +2181,15 @@
     "asset": "WINV26",
     "type": "COMPRA",
     "qty": 1,
-    "pnl": 34.0
+    "pnl": 30.0
+  },
+  {
+    "time": "Trade #14",
+    "strategy": "ÌNDICEESTRATÉGIA-28-08",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
   },
   {
     "time": "Trade #1",
