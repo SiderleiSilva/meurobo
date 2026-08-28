@@ -105,6 +105,46 @@
   },
   {
     "time": "Trade #1",
+    "strategy": "28WDO_5MIN",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #2",
+    "strategy": "28WDO_5MIN",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #3",
+    "strategy": "28WDO_5MIN",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #4",
+    "strategy": "28WDO_5MIN",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #5",
+    "strategy": "28WDO_5MIN",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "Trade #1",
     "strategy": "28WIN_2MIN",
     "asset": "WINV26",
     "type": "COMPRA",
