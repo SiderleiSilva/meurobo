@@ -159,27 +159,7 @@
     <div class="header">
         <h1>📊 Monitor de Estratégias - Profit Pro</h1>
         <div class="filters-container">
-            <!-- Filtro 1: Seleção de Mês -->
-            <div class="filter-group">
-                <label for="monthFilter">Mês:</label>
-                <select id="monthFilter" class="strategy-selector">
-                    <option value="ALL">Todos os Meses</option>
-                    <option value="JANEIRO">Janeiro</option>
-                    <option value="FEVEREIRO">Fevereiro</option>
-                    <option value="MARCO">Março</option>
-                    <option value="ABRIL">Abril</option>
-                    <option value="MAIO">Maio</option>
-                    <option value="JUNHO">Junho</option>
-                    <option value="JULHO">Julho</option>
-                    <option value="AGOSTO">Agosto</option>
-                    <option value="SETEMBRO">Setembro</option>
-                    <option value="OUTUBRO">Outubro</option>
-                    <option value="NOVEMBRO">Novembro</option>
-                    <option value="DEZEMBRO">Dezembro</option>
-                </select>
-            </div>
-
-            <!-- Filtro 2: Período -->
+            <!-- Filtro 1: Categoria / Período -->
             <div class="filter-group">
                 <label for="periodFilter">Período:</label>
                 <select id="periodFilter" class="strategy-selector">
@@ -190,7 +170,7 @@
                 </select>
             </div>
 
-            <!-- Filtro 3: Arquivo / Estratégia -->
+            <!-- Filtro 2: Estratégia / Arquivo Específico -->
             <div class="filter-group">
                 <label for="strategyFilter">Relatório / Arquivo:</label>
                 <select id="strategyFilter" class="strategy-selector">
@@ -249,7 +229,7 @@
     <script>
         let allTrades = [];
 
-        // Formatação de moeda com ponto de milhar (Ex: R$ 5.143.00)
+        // FUNÇÃO DE FORMATAR MOEDA COM PONTO DE MILHAR (Ex: R$ 5.143.00)
         function formatarMoeda(valor) {
             const partes = Math.abs(valor).toFixed(2).split('.');
             partes[0] = partes[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
@@ -257,24 +237,12 @@
             return `${sinal}R$ ${partes[0]}.${partes[1]}`;
         }
 
-        // Identifica a categoria pelo nome do arquivo
+        // Identifica automaticamente a categoria (Diário, Semanal ou Mensal) pelo nome do arquivo
         function getCategory(stratName) {
             const name = stratName.toUpperCase();
             if (name.includes('MENSAL')) return 'MENSAL';
             if (name.includes('SEMANAL')) return 'SEMANAL';
             return 'DIARIO';
-        }
-
-        // Verifica se a estratégia pertence ao mês selecionado
-        function matchesMonth(stratName, selectedMonth) {
-            if (selectedMonth === 'ALL') return true;
-            const name = stratName.toUpperCase();
-            
-            // Tratamento especial para MARÇO / MARCO
-            if (selectedMonth === 'MARCO') {
-                return name.includes('MARCO') || name.includes('MARÇO');
-            }
-            return name.includes(selectedMonth);
         }
 
         async function loadData() {
@@ -291,27 +259,18 @@
         }
 
         function setupFilters() {
-            const monthSelect = document.getElementById('monthFilter');
             const periodSelect = document.getElementById('periodFilter');
             const strategySelect = document.getElementById('strategyFilter');
 
             function updateStrategyDropdown() {
-                const selectedMonth = monthSelect.value;
                 const selectedPeriod = periodSelect.value;
-
-                let filtered = allTrades;
-
-                if (selectedMonth !== 'ALL') {
-                    filtered = filtered.filter(t => matchesMonth(t.strategy, selectedMonth));
-                }
-
-                if (selectedPeriod !== 'ALL') {
-                    filtered = filtered.filter(t => getCategory(t.strategy) === selectedPeriod);
-                }
+                const filtered = selectedPeriod === 'ALL' 
+                    ? allTrades 
+                    : allTrades.filter(t => getCategory(t.strategy) === selectedPeriod);
 
                 const strategies = [...new Set(filtered.map(t => t.strategy))];
                 
-                strategySelect.innerHTML = '<option value="ALL">Todas do Período/Mês</option>';
+                strategySelect.innerHTML = '<option value="ALL">Todas do Período</option>';
                 strategies.forEach(strat => {
                     const option = document.createElement('option');
                     option.value = strat;
@@ -319,11 +278,6 @@
                     strategySelect.appendChild(option);
                 });
             }
-
-            monthSelect.addEventListener('change', () => {
-                updateStrategyDropdown();
-                renderDashboard();
-            });
 
             periodSelect.addEventListener('change', () => {
                 updateStrategyDropdown();
@@ -338,28 +292,22 @@
         }
 
         function renderDashboard() {
-            const selectedMonth = document.getElementById('monthFilter').value;
             const selectedPeriod = document.getElementById('periodFilter').value;
             const selectedStrategy = document.getElementById('strategyFilter').value;
 
             let filteredTrades = allTrades;
 
-            // 1. Filtro de Mês
-            if (selectedMonth !== 'ALL') {
-                filteredTrades = filteredTrades.filter(t => matchesMonth(t.strategy, selectedMonth));
-            }
-
-            // 2. Filtro de Período
+            // Filtro 1: Período
             if (selectedPeriod !== 'ALL') {
                 filteredTrades = filteredTrades.filter(t => getCategory(t.strategy) === selectedPeriod);
             }
 
-            // 3. Filtro de Arquivo/Estratégia Específico
+            // Filtro 2: Estratégia / Relatório Específico
             if (selectedStrategy !== 'ALL') {
                 filteredTrades = filteredTrades.filter(t => t.strategy === selectedStrategy);
             }
 
-            // Cálculos
+            // Cálculos das métricas
             const totalPnl = filteredTrades.reduce((acc, t) => acc + t.pnl, 0);
             const gains = filteredTrades.filter(t => t.pnl > 0);
             const losses = filteredTrades.filter(t => t.pnl < 0);
@@ -377,7 +325,7 @@
                 payoff = "∞";
             }
 
-            // Atualização dos Cartões
+            // Atualizar Cartões de Métricas
             const pnlElement = document.getElementById('totalPnl');
             pnlElement.textContent = formatarMoeda(totalPnl);
             pnlElement.className = `value ${totalPnl >= 0 ? 'gain' : 'loss'}`;
@@ -388,7 +336,7 @@
             document.getElementById('totalTrades').textContent = totalTradesCount;
             document.getElementById('payoff').textContent = payoff;
 
-            // Atualização da Tabela
+            // Renderizar Tabela
             const tbody = document.getElementById('tradesTableBody');
             tbody.innerHTML = '';
 
@@ -411,7 +359,7 @@
             });
         }
 
-        // Inicia o carregamento
+        // Inicia o carregamento dos dados
         loadData();
     </script>
 </body>
