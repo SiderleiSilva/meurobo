@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Painel de Monitoramento de Estratégias</title>
     
-    <!-- TAGS ANTI-CACHE SEVERAS -->
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
@@ -84,14 +83,6 @@
             border-color: var(--accent-blue);
         }
 
-        @media (max-width: 768px) {
-            body { padding: 12px; }
-            .header h1 { font-size: 1.25rem; }
-            .filters-container { flex-direction: column; align-items: stretch; }
-            .filter-group { justify-content: space-between; }
-            .strategy-selector { width: 60%; }
-        }
-
         .metrics-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
@@ -111,7 +102,6 @@
             color: var(--text-sub);
             margin-bottom: 8px;
             text-transform: uppercase;
-            letter-spacing: 0.5px;
         }
 
         .metric-card .value {
@@ -178,9 +168,8 @@
         <h1>📊 Monitor de Estratégias 📊</h1>
         <div class="filters-container">
             
-            <!-- Filtro 1: Ativo -->
             <div class="filter-group">
-                <label for="assetFilter">Ativo:</label>
+                <label for="assetFilter">ATIVO:</label>
                 <select id="assetFilter" class="strategy-selector">
                     <option value="ALL">Todos os Ativos</option>
                     <option value="WDO">WDO (Dólar)</option>
@@ -188,29 +177,27 @@
                 </select>
             </div>
 
-            <!-- Filtro 2: Mês -->
             <div class="filter-group">
-                <label for="monthFilter">Mês:</label>
+                <label for="monthFilter">MÊS:</label>
                 <select id="monthFilter" class="strategy-selector">
                     <option value="ALL">Todos os Meses</option>
-                    <option value="JANEIRO">Janeiro</option>
-                    <option value="FEVEREIRO">Fevereiro</option>
-                    <option value="MARCO">Março</option>
-                    <option value="ABRIL">Abril</option>
-                    <option value="MAIO">Maio</option>
-                    <option value="JUNHO">Junho</option>
-                    <option value="JULHO">Julho</option>
-                    <option value="AGOSTO">Agosto</option>
-                    <option value="SETEMBRO">Setembro</option>
-                    <option value="OUTUBRO">Outubro</option>
-                    <option value="NOVEMBRO">Novembro</option>
-                    <option value="DEZEMBRO">Dezembro</option>
+                    <option value="JAN">Janeiro</option>
+                    <option value="FEV">Fevereiro</option>
+                    <option value="MAR">Março</option>
+                    <option value="ABR">Abril</option>
+                    <option value="MAI">Maio</option>
+                    <option value="JUN">Junho</option>
+                    <option value="JUL">Julho</option>
+                    <option value="AGO">Agosto</option>
+                    <option value="SET">Setembro</option>
+                    <option value="OUT">Outubro</option>
+                    <option value="NOV">Novembro</option>
+                    <option value="DEZ">Dezembro</option>
                 </select>
             </div>
 
-            <!-- Filtro 3: Período -->
             <div class="filter-group">
-                <label for="periodFilter">Período:</label>
+                <label for="periodFilter">PERÍODO:</label>
                 <select id="periodFilter" class="strategy-selector">
                     <option value="ALL">Todos os Períodos</option>
                     <option value="DIARIO">Diário</option>
@@ -219,9 +206,8 @@
                 </select>
             </div>
 
-            <!-- Filtro 4: Relatório / Arquivo -->
             <div class="filter-group">
-                <label for="strategyFilter">Relatório / Arquivo:</label>
+                <label for="strategyFilter">RELATÓRIO / ARQUIVO:</label>
                 <select id="strategyFilter" class="strategy-selector">
                     <option value="ALL">Todas as Estratégias</option>
                 </select>
@@ -270,30 +256,12 @@
                     <th>Resultado (R$)</th>
                 </tr>
             </thead>
-            <tbody id="tradesTableBody">
-                <!-- Preenchido via JS -->
-            </tbody>
+            <tbody id="tradesTableBody"></tbody>
         </table>
     </div>
 
     <script>
         let allTrades = [];
-
-        // Mapeamento Inteligente dos Meses
-        const monthConfig = {
-            'JANEIRO':   ['JANEIRO', 'JAN', '-01-', '/01/', '-01', '01-'],
-            'FEVEREIRO': ['FEVEREIRO', 'FEV', '-02-', '/02/', '-02', '02-'],
-            'MARCO':     ['MARCO', 'MARÇO', 'MAR', '-03-', '/03/', '-03', '03-'],
-            'ABRIL':     ['ABRIL', 'ABR', '-04-', '/04/', '-04', '04-'],
-            'MAIO':      ['MAIO', 'MAI', '-05-', '/05/', '-05', '05-'],
-            'JUNHO':     ['JUNHO', 'JUN', '-06-', '/06/', '-06', '06-'],
-            'JULHO':     ['JULHO', 'JUL', '-07-', '/07/', '-07', '07-'],
-            'AGOSTO':    ['AGOSTO', 'AGO', '-08-', '/08/', '-08', '08-', '28-08'],
-            'SETEMBRO':  ['SETEMBRO', 'SET', '-09-', '/09/', '-09', '09-'],
-            'OUTUBRO':   ['OUTUBRO', 'OUT', '-10-', '/10/', '-10', '10-'],
-            'NOVEMBRO':  ['NOVEMBRO', 'NOV', '-11-', '/11/', '-11', '11-'],
-            'DEZEMBRO':  ['DEZEMBRO', 'DEZ', '-12-', '/12/', '-12', '12-']
-        };
 
         function formatarMoeda(valor) {
             const partes = Math.abs(valor).toFixed(2).split('.');
@@ -302,44 +270,19 @@
             return `${sinal}R$ ${partes[0]}.${partes[1]}`;
         }
 
-        function getCategory(stratName) {
-            const name = (stratName || '').toUpperCase();
-            if (name.includes('MENSAL')) return 'MENSAL';
-            if (name.includes('SEMANAL')) return 'SEMANAL';
-            return 'DIARIO';
+        async function loadData() {
+            try {
+                const cacheBuster = new Date().getTime();
+                const response = await fetch(`trades_data.json?v=${cacheBuster}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error('Erro ao carregar os dados');
+                allTrades = await response.json();
+                
+                setupFilters();
+                renderDashboard();
+            } catch (error) {
+                console.error("Erro ao carregar trades_data.json:", error);
+            }
         }
-
-        function matchesAsset(trade, selectedAsset) {
-            if (selectedAsset === 'ALL') return true;
-            const assetName = (trade.asset || '').toUpperCase();
-            const stratName = (trade.strategy || '').toUpperCase();
-            return assetName.includes(selectedAsset) || stratName.includes(selectedAsset);
-        }
-
-        function matchesMonth(trade, selectedMonth) {
-            if (selectedMonth === 'ALL') return true;
-            const keys = monthConfig[selectedMonth] || [selectedMonth];
-            const textToSearch = `${trade.strategy || ''} ${trade.time || ''}`.toUpperCase();
-            return keys.some(key => textToSearch.includes(key));
-        }
-
-      async function loadData() {
-    try {
-        // Adiciona timestamp dinâmico para EVITAR CACHE do navegador
-        const cacheBuster = new Date().getTime();
-        
-        // Força a busca do JSON atualizado no disco sem armazenar em cache
-        const response = await fetch(`trades_data.json?v=${cacheBuster}`, { cache: 'no-store' });
-        
-        if (!response.ok) throw new Error('Erro ao carregar os dados');
-        allTrades = await response.json();
-        
-        setupFilters();
-        renderDashboard();
-    } catch (error) {
-        console.error("Erro ao carregar trades_data.json:", error);
-    }
-}
 
         function setupFilters() {
             const assetSelect = document.getElementById('assetFilter');
@@ -347,106 +290,95 @@
             const periodSelect = document.getElementById('periodFilter');
             const strategySelect = document.getElementById('strategyFilter');
 
-            function updateStrategyDropdown() {
-                const selectedAsset = assetSelect.value;
-                const selectedMonth = monthSelect.value;
-                const selectedPeriod = periodSelect.value;
+            function updateStrategyOptions() {
+                const selAsset = assetSelect.value;
+                const selMonth = monthSelect.value;
+                const selPeriod = periodSelect.value;
 
-                let filtered = allTrades.filter(t => matchesAsset(t, selectedAsset));
+                let filtered = allTrades.filter(t => {
+                    const strat = (t.strategy || '').toUpperCase();
+                    const asset = (t.asset || '').toUpperCase();
+                    
+                    const matchAsset = selAsset === 'ALL' || strat.includes(selAsset) || asset.includes(selAsset);
+                    const matchMonth = selMonth === 'ALL' || strat.includes(selMonth);
+                    const matchPeriod = selPeriod === 'ALL' || strat.includes(selPeriod);
 
-                if (selectedMonth !== 'ALL') {
-                    filtered = filtered.filter(t => matchesMonth(t, selectedMonth));
-                }
-
-                if (selectedPeriod !== 'ALL') {
-                    filtered = filtered.filter(t => getCategory(t.strategy) === selectedPeriod);
-                }
+                    return matchAsset && matchMonth && matchPeriod;
+                });
 
                 const strategies = [...new Set(filtered.map(t => t.strategy))];
-                
                 strategySelect.innerHTML = '<option value="ALL">Todas as Estratégias</option>';
-                strategies.forEach(strat => {
-                    const option = document.createElement('option');
-                    option.value = strat;
-                    option.textContent = strat;
-                    strategySelect.appendChild(option);
+                strategies.forEach(s => {
+                    const opt = document.createElement('option');
+                    opt.value = s;
+                    opt.textContent = s;
+                    strategySelect.appendChild(opt);
                 });
             }
 
-            assetSelect.addEventListener('change', () => { updateStrategyDropdown(); renderDashboard(); });
-            monthSelect.addEventListener('change', () => { updateStrategyDropdown(); renderDashboard(); });
-            periodSelect.addEventListener('change', () => { updateStrategyDropdown(); renderDashboard(); });
-            strategySelect.addEventListener('change', () => { renderDashboard(); });
+            [assetSelect, monthSelect, periodSelect].forEach(elem => {
+                elem.addEventListener('change', () => {
+                    updateStrategyOptions();
+                    renderDashboard();
+                });
+            });
 
-            updateStrategyDropdown();
+            strategySelect.addEventListener('change', renderDashboard);
+            updateStrategyOptions();
         }
 
         function renderDashboard() {
-            const selectedAsset = document.getElementById('assetFilter').value;
-            const selectedMonth = document.getElementById('monthFilter').value;
-            const selectedPeriod = document.getElementById('periodFilter').value;
-            const selectedStrategy = document.getElementById('strategyFilter').value;
+            const selAsset = document.getElementById('assetFilter').value;
+            const selMonth = document.getElementById('monthFilter').value;
+            const selPeriod = document.getElementById('periodFilter').value;
+            const selStrategy = document.getElementById('strategyFilter').value;
 
-            let filteredTrades = allTrades.filter(t => matchesAsset(t, selectedAsset));
+            let filtered = allTrades.filter(t => {
+                const strat = (t.strategy || '').toUpperCase();
+                const asset = (t.asset || '').toUpperCase();
 
-            if (selectedMonth !== 'ALL') {
-                filteredTrades = filteredTrades.filter(t => matchesMonth(t, selectedMonth));
-            }
+                const matchAsset = selAsset === 'ALL' || strat.includes(selAsset) || asset.includes(selAsset);
+                const matchMonth = selMonth === 'ALL' || strat.includes(selMonth);
+                const matchPeriod = selPeriod === 'ALL' || strat.includes(selPeriod);
+                const matchStrategy = selStrategy === 'ALL' || t.strategy === selStrategy;
 
-            if (selectedPeriod !== 'ALL') {
-                filteredTrades = filteredTrades.filter(t => getCategory(t.strategy) === selectedPeriod);
-            }
+                return matchAsset && matchMonth && matchPeriod && matchStrategy;
+            });
 
-            if (selectedStrategy !== 'ALL') {
-                filteredTrades = filteredTrades.filter(t => t.strategy === selectedStrategy);
-            }
+            const totalPnl = filtered.reduce((acc, t) => acc + t.pnl, 0);
+            const gains = filtered.filter(t => t.pnl > 0);
+            const losses = filtered.filter(t => t.pnl < 0);
+            const totalCount = filtered.length;
+            const winRate = totalCount > 0 ? ((gains.length / totalCount) * 100).toFixed(1) : 0.0;
 
-            // Cálculos
-            const totalPnl = filteredTrades.reduce((acc, t) => acc + t.pnl, 0);
-            const gains = filteredTrades.filter(t => t.pnl > 0);
-            const losses = filteredTrades.filter(t => t.pnl < 0);
-            const totalTradesCount = filteredTrades.length;
-            
-            const winRate = totalTradesCount > 0 ? ((gains.length / totalTradesCount) * 100).toFixed(1) : 0.0;
-            
             const sumGain = gains.reduce((acc, t) => acc + t.pnl, 0);
             const sumLoss = Math.abs(losses.reduce((acc, t) => acc + t.pnl, 0));
-            
-            let payoff = "0.00";
-            if (sumLoss > 0) {
-                payoff = (sumGain / sumLoss).toFixed(2);
-            } else if (sumGain > 0) {
-                payoff = "∞";
-            }
+            const payoff = sumLoss > 0 ? (sumGain / sumLoss).toFixed(2) : (sumGain > 0 ? "∞" : "0.00");
 
-            // Atualização dos Cartões
-            const pnlElement = document.getElementById('totalPnl');
-            pnlElement.textContent = formatarMoeda(totalPnl);
-            pnlElement.className = `value ${totalPnl >= 0 ? 'gain' : 'loss'}`;
+            const pnlElem = document.getElementById('totalPnl');
+            pnlElem.textContent = formatarMoeda(totalPnl);
+            pnlElem.className = `value ${totalPnl >= 0 ? 'gain' : 'loss'}`;
 
             document.getElementById('winRate').textContent = `${winRate}%`;
             document.getElementById('gainCount').textContent = gains.length;
             document.getElementById('lossCount').textContent = losses.length;
-            document.getElementById('totalTrades').textContent = totalTradesCount;
+            document.getElementById('totalTrades').textContent = totalCount;
             document.getElementById('payoff').textContent = payoff;
 
-            // Atualização da Tabela
             const tbody = document.getElementById('tradesTableBody');
             tbody.innerHTML = '';
 
-            filteredTrades.forEach((trade, index) => {
+            filtered.forEach((trade, i) => {
                 const tr = document.createElement('tr');
-                
-                const isGain = trade.pnl >= 0;
-                const pnlClass = isGain ? 'gain' : 'loss';
+                const pnlClass = trade.pnl >= 0 ? 'gain' : 'loss';
                 const badgeClass = trade.type === 'COMPRA' ? 'badge-buy' : 'badge-sell';
 
                 tr.innerHTML = `
-                    <td>${trade.time || `Trade #${index + 1}`}</td>
+                    <td>${trade.time || `Trade #${i + 1}`}</td>
                     <td><strong>${trade.strategy}</strong></td>
-                    <td>${trade.asset || 'WIN'}</td>
+                    <td>${trade.asset}</td>
                     <td><span class="badge ${badgeClass}">${trade.type}</span></td>
-                    <td>${trade.qty || 1}</td>
+                    <td>${trade.qty}</td>
                     <td class="${pnlClass}"><strong>${formatarMoeda(trade.pnl)}</strong></td>
                 `;
                 tbody.appendChild(tr);

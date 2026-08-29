@@ -1,128 +1,102 @@
-import json
 import os
-import glob
-import io
-import time
+import json
+import csv
 import subprocess
-import pandas as pd
 
-FOLDER_PATH = r"C:\NOVOS SIMULADOS\ROBO"
-OUTPUT_JSON_PATH = os.path.join(FOLDER_PATH, "trades_data.json")
-
-def ler_csv_profit(caminho_arquivo):
-    """Lê arquivos CSV do Profit identificando o cabeçalho correto e o encodamento."""
-    encodings = ['utf-16', 'latin1', 'utf-8-sig', 'utf-8', 'cp1252']
+def parse_csv_file(filepath):
+    filename = os.path.basename(filepath)
+    # Define o nome da estratégia com base no nome do arquivo (sem extensão)
+    strategy_name = os.path.splitext(filename)[0]
     
+    trades = []
+    encodings = ['utf-8', 'latin-1', 'utf-16', 'cp1252']
+    content = None
+
     for enc in encodings:
         try:
-            with open(caminho_arquivo, 'r', encoding=enc) as f:
-                linhas = f.readlines()
-            
-            header_index = -1
-            for idx, linha in enumerate(linhas):
-                if any(k in linha for k in ["Operação", "Lado", "Resultado", "Preço", "Data/Hora", "Ativo"]):
-                    header_index = idx
-                    break
-            
-            if header_index != -1:
-                conteudo = "".join(linhas[header_index:])
-                primeira_linha = linhas[header_index]
-                sep = ';' if ';' in primeira_linha else ('\t' if '\t' in primeira_linha else ',')
-                return pd.read_csv(io.StringIO(conteudo), sep=sep)
+            with open(filepath, 'r', encoding=enc) as f:
+                content = f.readlines()
+            break
+        except UnicodeDecodeError:
+            continue
+
+    if not content:
+        return []
+
+    # Identifica o separador (; ou ,)
+    delimiter = ';' if ';' in content[0] else ','
+    reader = csv.reader(content, delimiter=delimiter)
+    rows = [r for r in reader if r]
+
+    if not rows:
+        return []
+
+    header = [c.strip().lower() for c in rows[0]]
+
+    # Localização das colunas
+    time_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['horario', 'horário', 'data', 'time'])), -1)
+    asset_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['ativo', 'instrumento', 'asset'])), -1)
+    type_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['tipo', 'lado', 'operacao', 'operação'])), -1)
+    qty_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['qtd', 'quantidade', 'volume'])), -1)
+    pnl_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['resultado', 'lucro', 'pnl', 'liquido', 'líquido'])), -1)
+
+    for row in rows[1:]:
+        try:
+            time_val = row[time_idx].strip() if time_idx != -1 and time_idx < len(row) else ''
+            asset_val = row[asset_idx].strip() if asset_idx != -1 and asset_idx < len(row) else ('WDO' if 'WDO' in strategy_name else 'WIN')
+            type_val = row[type_idx].strip().upper() if type_idx != -1 and type_idx < len(row) else 'COMPRA'
+            qty_val = row[qty_idx].strip() if qty_idx != -1 and qty_idx < len(row) else '1'
+            pnl_str = row[pnl_idx].strip() if pnl_idx != -1 and pnl_idx < len(row) else '0'
+
+            # Formatação do PnL para número
+            pnl_clean = pnl_str.replace('R$', '').replace('.', '').replace(',', '.').strip()
+            pnl_val = float(pnl_clean) if pnl_clean else 0.0
+
+            qty_num = int(qty_val) if qty_val.isdigit() else 1
+            trade_type = "COMPRA" if any(w in type_val for w in ["COMP", "BUY", "C"]) else "VENDA"
+
+            trades.append({
+                "time": time_val,
+                "strategy": strategy_name,
+                "asset": asset_val,
+                "type": trade_type,
+                "qty": qty_num,
+                "pnl": pnl_val
+            })
         except Exception:
             continue
-            
-    return pd.read_csv(caminho_arquivo, sep=None, engine='python', on_bad_lines='skip')
 
-def processar_relatorio():
-    """Lê todos os CSVs/XLSXs da pasta, unifica os dados e salva no trades_data.json."""
-    arquivos = glob.glob(os.path.join(FOLDER_PATH, "*.csv")) + glob.glob(os.path.join(FOLDER_PATH, "*.xlsx"))
-    arquivos = [f for f in arquivos if not os.path.basename(f).startswith("~$")]
+    return trades
+
+def process_all_csvs():
+    all_trades = []
+    csv_files = [f for f in os.listdir('.') if f.lower().endswith('.csv')]
     
-    if not arquivos:
-        print("⚠️ Nenhum arquivo de relatório encontrado na pasta.")
-        return False
+    print(f"📁 Encontrados {len(csv_files)} arquivos CSV na pasta:")
+    for f in csv_files:
+        trades = parse_csv_file(f)
+        print(f"  └─ {f}: {len(trades)} operações carregadas.")
+        all_trades.extend(trades)
 
-    todos_os_trades = []
+    with open('trades_data.json', 'w', encoding='utf-8') as jf:
+        json.dump(all_trades, jf, ensure_ascii=False, indent=2)
 
-    for arquivo in arquivos:
-        nome_arquivo = os.path.basename(arquivo)
-        print(f"📄 Processando arquivo: {nome_arquivo}")
+    print(f"\n✅ 'trades_data.json' ATUALIZADO com {len(all_trades)} trades no total!")
 
-        try:
-            if arquivo.endswith('.xlsx'):
-                df = pd.read_excel(arquivo)
-            else:
-                df = ler_csv_profit(arquivo)
-
-            nome_estrategia = os.path.splitext(nome_arquivo)[0].upper()
-
-            for idx, row in df.iterrows():
-                res_val = str(row.get("Resultado", row.get("Res. Operação", row.get("Total", 0))))
-                
-                if pd.isna(res_val) or res_val == "nan" or not res_val.strip():
-                    continue
-
-                res_clean = res_val.replace("R$", "").replace("pts", "").replace(".", "").replace(",", ".").strip()
-                
-                try:
-                    pnl = float(res_clean)
-                except ValueError:
-                    continue
-
-                lado_str = str(row.get("Lado/Quantidade", row.get("Lado", row.get("Tipo", "COMPRA")))).upper()
-                tipo_trade = "COMPRA" if ("C" in lado_str or "COMPRA" in lado_str) else "VENDA"
-                horario = str(row.get("Data/Hora", row.get("Horário", f"Trade #{idx+1}")))
-
-                todos_os_trades.append({
-                    "time": horario,
-                    "strategy": nome_estrategia,
-                    "asset": str(row.get("Ativo", "WIN")),
-                    "type": tipo_trade,
-                    "qty": 1,
-                    "pnl": pnl
-                })
-
-        except Exception as e:
-            print(f"❌ Erro ao ler o arquivo {nome_arquivo}: {e}")
-
-    with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(todos_os_trades, f, ensure_ascii=False, indent=2)
-
-    print("✅ Sucesso! Todas as estratégias foram unificadas no JSON.")
-    return True
-
-def enviar_para_nuvem():
-    """Envia o arquivo atualizado automaticamente para o GitHub e Netlify."""
+def push_to_git():
     try:
-        print("🚀 Enviando atualizações para o Netlify via GitHub...")
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "Auto-update trades"], check=True)
-        subprocess.run(["git", "push"], check=True)
-        print("🌐 Site online atualizado com sucesso!")
+        status = subprocess.check_output(['git', 'status', '--porcelain']).decode('utf-8')
+        if not status.strip():
+            return
+        subprocess.run(['git', 'add', '.'], check=True)
+        subprocess.run(['git', 'commit', '-m', 'Auto-update trades'], check=True)
+        subprocess.run(['git', 'push', 'origin', 'main', '--force'], check=True)
+        print("🌐 GitHub sincronizado com sucesso!")
     except Exception as e:
-        print(f"⚠️ Erro ao enviar para o Git: {e}")
+        print(f"⚠️ Git: {e}")
 
 if __name__ == "__main__":
-    print("👀 Robô em execução! Monitorando a pasta C:\\NOVOS SIMULADOS\\ROBO...")
-    print("Mantenha este terminal aberto. O site será atualizado sozinho sempre que houver alterações.")
-    
-    ultimo_estado = {}
-    
-    while True:
-        try:
-            arquivos = glob.glob(os.path.join(FOLDER_PATH, "*.csv")) + glob.glob(os.path.join(FOLDER_PATH, "*.xlsx"))
-            estado_atual = {f: os.path.getmtime(f) for f in arquivos if not os.path.basename(f).startswith("~$")}
-            
-            # Se algum arquivo foi adicionado, alterado ou substituído
-            if estado_atual != ultimo_estado:
-                print("\n🔔 Alteração ou novo relatório detectado!")
-                if processar_relatorio():
-                    enviar_para_nuvem()
-                ultimo_estado = estado_atual
-                print("⏳ Aguardando novas operações...\n")
-                
-        except Exception as err:
-            print(f"⚠️ Erro no ciclo de monitoramento: {err}")
-            
-        time.sleep(5)  # Verifica alterações na pasta a cada 5 segundos
+    print("🚀 Iniciando leitura da pasta...")
+    process_all_csvs()
+    push_to_git()
+    print("\n⌛ Processo concluído com sucesso!")
