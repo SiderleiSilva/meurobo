@@ -4072,6 +4072,1286 @@
     "pnl": -30.0
   },
   {
+    "time": "10/08/2026 09:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 09:10:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 09:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 09:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 10:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 10:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 10:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 10:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 10:44:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 10:50:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 10:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 10:58:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 11:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 11:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 11:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 11:54:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 12:28:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 12:34:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 13:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 13:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 14:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 14:10:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 15:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 16:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "10/08/2026 16:18:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "10/08/2026 16:42:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 09:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 09:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 09:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 09:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 10:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 10:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 10:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 10:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 10:24:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 10:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 10:42:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 10:54:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 11:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 11:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 11:40:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 11:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 12:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 12:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 12:08:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 12:36:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 12:40:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 12:54:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 13:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 13:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 13:58:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 14:10:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 14:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 14:58:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 15:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 15:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 16:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "11/08/2026 16:38:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "11/08/2026 16:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 09:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 09:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 09:24:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:26:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 09:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 09:50:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 10:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:08:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 10:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 10:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 10:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 10:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:34:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:38:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 11:18:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 11:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 11:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 11:54:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 12:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 13:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 13:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 13:46:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 13:50:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 13:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 14:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 14:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 14:46:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 14:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 15:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 15:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 15:38:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 15:40:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "12/08/2026 16:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 16:42:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "12/08/2026 16:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 09:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 09:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 09:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 09:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 09:36:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 09:38:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 10:00:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 10:08:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 10:10:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 10:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 10:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 10:24:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 10:34:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 11:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 11:22:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 11:26:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 11:46:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 12:08:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 12:18:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 12:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 13:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 14:00:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 14:04:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 14:20:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 14:46:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 14:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 15:00:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 15:12:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 15:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 15:42:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "13/08/2026 16:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "13/08/2026 16:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -23.0
+  },
+  {
+    "time": "14/08/2026 09:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 09:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 09:28:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 09:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 09:38:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 09:40:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 09:42:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 10:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 10:08:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 10:10:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 10:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 10:30:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 10:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 10:34:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 10:42:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 11:06:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 11:14:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 11:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 11:58:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 13:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 13:24:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 13:52:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 13:56:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 14:26:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 15:46:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 16:02:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 16:16:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 16:26:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 16:28:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 16:32:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "14/08/2026 16:44:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 16:50:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "14/08/2026 16:54:00",
+    "strategy": "AGO_WIN-2SEMANA",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
     "time": "03/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
