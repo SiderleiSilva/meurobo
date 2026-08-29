@@ -1,6 +1,326 @@
 [
   {
     "time": "03/08/2026 09:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 09:35:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "03/08/2026 09:50:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "03/08/2026 10:00:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 10:40:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "03/08/2026 11:10:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "03/08/2026 11:20:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "03/08/2026 14:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "03/08/2026 16:55:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -25.0
+  },
+  {
+    "time": "04/08/2026 09:10:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 09:30:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 10:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "04/08/2026 10:50:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 11:00:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 12:20:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 14:55:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 15:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 15:15:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 15:20:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/08/2026 15:40:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "05/08/2026 09:30:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "05/08/2026 10:25:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "05/08/2026 11:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "05/08/2026 11:10:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "05/08/2026 11:30:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 13:15:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "05/08/2026 14:20:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "05/08/2026 16:30:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -25.0
+  },
+  {
+    "time": "06/08/2026 09:30:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "06/08/2026 10:20:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "06/08/2026 12:55:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "06/08/2026 13:45:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "07/08/2026 09:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "07/08/2026 09:35:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:05:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "07/08/2026 10:35:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "07/08/2026 13:15:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "07/08/2026 14:10:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "07/08/2026 14:40:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "07/08/2026 16:50:00",
+    "strategy": "AGO_WDO-1SEMANA",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 10.0
+  },
+  {
+    "time": "03/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
     "type": "COMPRA",
