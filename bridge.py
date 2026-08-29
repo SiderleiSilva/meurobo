@@ -10,24 +10,23 @@ from datetime import datetime
 def clean_float(val_str):
     if not val_str:
         return 0.0
-    # Remove aspas, espaços normais e inquebráveis, prefixo R$
+    # Limpa moedas, espaços e aspas
     s = str(val_str).replace('"', '').replace("'", '').replace('\xa0', '').replace('R$', '').replace(' ', '').strip()
     if not s:
         return 0.0
 
-    # Trata formatos contábeis de número negativo: (150,00) ou 150,00-
+    # Formatos contábeis negativos
     if s.startswith('(') and s.endswith(')'):
         s = '-' + s[1:-1]
     elif s.endswith('-'):
         s = '-' + s[:-1]
 
-    # Trata padrão brasileiro de milhar e decimal (1.500,50 -> 1500.50 ou -150,00 -> -150.00)
+    # Padrão brasileiro de milhar e decimal (5.096,00 -> 5096.00)
     if '.' in s and ',' in s:
         s = s.replace('.', '').replace(',', '.')
     elif ',' in s:
         s = s.replace(',', '.')
 
-    # Garante apenas dígitos, ponto e sinal de menos
     s = re.sub(r'[^0-9.-]', '', s)
 
     try:
@@ -39,7 +38,7 @@ def parse_csv_file(filepath):
     filename = os.path.basename(filepath)
     strategy_name = os.path.splitext(filename)[0]
     
-    encodings = ['utf-8-sig', 'utf-8', 'latin-1', 'cp1252', 'utf-16']
+    encodings = ['latin-1', 'utf-8-sig', 'utf-8', 'cp1252', 'utf-16']
     raw_text = None
 
     for enc in encodings:
@@ -58,7 +57,7 @@ def parse_csv_file(filepath):
     if not lines:
         return []
 
-    # Detecta o delimitador correto
+    # Detecta o delimitador correto (; ou ,)
     sample = "\n".join(lines[:10])
     semis = sample.count(';')
     commas = sample.count(',')
@@ -71,18 +70,16 @@ def parse_csv_file(filepath):
     else:
         delimiter = '\t'
 
-    # Usa leitor nativo de CSV para tratar aspas e caracteres especiais
     reader = list(csv.reader(io.StringIO("\n".join(lines)), delimiter=delimiter))
     if not reader:
         return []
 
-    # Localiza o cabeçalho
     header_idx = -1
     header = []
 
     for idx, row in enumerate(reader[:15]):
         row_str = " ".join([c.lower().strip() for c in row])
-        if any(k in row_str for k in ['resultado', 'lucro', 'pnl', 'ativo', 'tipo', 'lado', 'qtd', 'quantidade', 'operação', 'operacao', 'liquido', 'líquido']):
+        if any(k in row_str for k in ['res. operação', 'resultado', 'lucro', 'pnl', 'ativo', 'lado', 'operação', 'operacao']):
             header_idx = idx
             header = [c.lower().strip() for c in row]
             break
@@ -91,24 +88,23 @@ def parse_csv_file(filepath):
         header_idx = 0
         header = [c.lower().strip() for c in reader[0]]
 
-    # Mapeamento flexível das colunas básicas
-    time_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['horario', 'horário', 'data', 'time', 'fechamento', 'abertura', 'dt.'])), -1)
+    # Mapeamento de colunas
+    time_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['abertura', 'horario', 'horário', 'data', 'time', 'fechamento'])), -1)
     asset_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['ativo', 'instrumento', 'asset', 'papel', 'symbol'])), -1)
-    type_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['tipo', 'lado', 'operacao', 'operação', 'c/v'])), -1)
-    qty_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['qtd', 'quantidade', 'volume', 'contratos'])), -1)
+    type_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['lado', 'tipo', 'operacao', 'operação', 'c/v'])), -1)
+    qty_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['qtd compra', 'qtd venda', 'qtd', 'quantidade', 'volume', 'contratos'])), -1)
 
-    # Identificação da coluna de resultado financeiro (PnL)
+    # Identificação RIGOROSA da coluna de resultado por trade (Ignora a coluna 'Total' e 'Acumulado')
     pnl_idx = -1
     for i, c in enumerate(header):
-        if any(k in c for k in ['r$', 'líquido', 'liquido', 'financeiro', 'lucro (r$)']):
-            if not any(skip in c for skip in ['pts', 'pontos', '%', 'qtd']):
-                pnl_idx = i
-                break
+        if any(k in c for k in ['res. operação', 'res. operacao', 'resultado líquido', 'resultado liquido', 'lucro líquido', 'lucro liquido', 'res. intervalo bruto']):
+            pnl_idx = i
+            break
 
     if pnl_idx == -1:
         for i, c in enumerate(header):
-            if any(k in c for k in ['resultado', 'pnl', 'lucro', 'retorno', 'total']):
-                if not any(skip in c for skip in ['pts', 'pontos', '%', 'qtd', 'preço', 'preco']):
+            if any(k in c for k in ['resultado', 'res.', 'pnl', 'lucro', 'retorno']):
+                if not any(skip in c for skip in ['total', 'acumulado', 'saldo', 'pts', 'pontos', '%', 'qtd', 'preço', 'preco', 'médio', 'medio']):
                     pnl_idx = i
                     break
 
@@ -127,19 +123,9 @@ def parse_csv_file(filepath):
 
             type_raw = row[type_idx].upper().strip() if type_idx != -1 and type_idx < len(row) else 'COMPRA'
             qty_raw = row[qty_idx].strip() if qty_idx != -1 and qty_idx < len(row) else '1'
-            
-            pnl_val = 0.0
-            if pnl_idx != -1 and pnl_idx < len(row):
-                pnl_val = clean_float(row[pnl_idx])
-            else:
-                # Fallback: varre a linha procurando o primeiro valor numérico válido
-                for cell in row:
-                    val = clean_float(cell)
-                    if val != 0.0:
-                        pnl_val = val
-                        break
+            pnl_val = clean_float(row[pnl_idx]) if pnl_idx != -1 and pnl_idx < len(row) else 0.0
 
-            trade_type = "COMPRA" if any(w in type_raw for w in ["COMP", "BUY", "C"]) else "VENDA"
+            trade_type = "COMPRA" if any(w in type_raw for w in ["COMP", "BUY", "C", "V"]) and "V" not in type_raw else ("VENDA" if "V" in type_raw else "COMPRA")
             qty_num = int(abs(clean_float(qty_raw))) if clean_float(qty_raw) != 0 else 1
 
             trades.append({
@@ -162,8 +148,8 @@ def process_all_csvs():
     print(f"📁 Lendo {len(csv_files)} arquivos CSV na pasta:")
     for f in csv_files:
         trades = parse_csv_file(f)
-        sample_pnl = next((t['pnl'] for t in trades if t['pnl'] != 0.0), 0.0)
-        print(f"  └─ {f}: {len(trades)} trades extraídos. (Exemplo de resultado capturado: R$ {sample_pnl:.2f})")
+        total_pnl = sum(t['pnl'] for t in trades)
+        print(f"  └─ {f}: {len(trades)} trades extraídos | Resultado real: R$ {total_pnl:.2f}")
         all_trades.extend(trades)
 
     with open('trades_data.json', 'w', encoding='utf-8') as jf:
@@ -199,15 +185,15 @@ if __name__ == "__main__":
 
             if current_files_state != last_files_state:
                 now = datetime.now().strftime("%H:%M:%S")
-                print(f"[{now}] 🔔 Alteração detectada nos relatórios! Atualizando...")
+                print(f"[{now}] 🔔 Processando relatórios...")
                 
                 process_all_csvs()
                 push_to_git()
                 
                 last_files_state = current_files_state
-                print(f"[{now}] 🟢 Monitoramento ativo. Aguardando próximas mudanças...\n")
+                print(f"[{now}] 🟢 Monitoramento ativo. Aguardando alterações...\n")
 
         except Exception as e:
-            print(f"⚠️ Erro durante monitoramento: {e}")
+            print(f"⚠️ Erro: {e}")
 
         time.sleep(3)

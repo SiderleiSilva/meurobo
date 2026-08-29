@@ -3,7 +3,7 @@
     "time": "03/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 0.0
   },
@@ -11,7 +11,7 @@
     "time": "03/08/2026 09:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
   },
@@ -19,15 +19,15 @@
     "time": "03/08/2026 09:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 60.0
   },
   {
     "time": "03/08/2026 10:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 0.0
   },
@@ -35,7 +35,7 @@
     "time": "03/08/2026 10:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 60.0
   },
@@ -43,1495 +43,1495 @@
     "time": "03/08/2026 11:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 60.0
   },
   {
     "time": "03/08/2026 11:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 60.0
   },
   {
     "time": "03/08/2026 14:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 60.0
   },
   {
     "time": "03/08/2026 16:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 215.0
+    "pnl": -25.0
   },
   {
     "time": "04/08/2026 09:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 275.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 09:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 335.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 10:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 275.0
+    "pnl": -60.0
   },
   {
     "time": "04/08/2026 10:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 335.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 11:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 395.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 12:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 455.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 14:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 515.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 15:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 575.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 15:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 635.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 15:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 695.0
+    "pnl": 60.0
   },
   {
     "time": "04/08/2026 15:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 635.0
+    "pnl": -60.0
   },
   {
     "time": "05/08/2026 09:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 575.0
+    "pnl": -60.0
   },
   {
     "time": "05/08/2026 10:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 635.0
+    "pnl": 60.0
   },
   {
     "time": "05/08/2026 11:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 695.0
+    "pnl": 60.0
   },
   {
     "time": "05/08/2026 11:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 635.0
+    "pnl": -60.0
   },
   {
     "time": "05/08/2026 11:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 635.0
+    "pnl": 0.0
   },
   {
     "time": "05/08/2026 13:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 695.0
+    "pnl": 60.0
   },
   {
     "time": "05/08/2026 14:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 635.0
+    "pnl": -60.0
   },
   {
     "time": "05/08/2026 16:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 610.0
+    "pnl": -25.0
   },
   {
     "time": "06/08/2026 09:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 550.0
+    "pnl": -60.0
   },
   {
     "time": "06/08/2026 10:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 610.0
+    "pnl": 60.0
   },
   {
     "time": "06/08/2026 12:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 550.0
+    "pnl": -60.0
   },
   {
     "time": "06/08/2026 13:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 490.0
+    "pnl": -60.0
   },
   {
     "time": "07/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 430.0
+    "pnl": -60.0
   },
   {
     "time": "07/08/2026 09:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 430.0
+    "pnl": 0.0
   },
   {
     "time": "07/08/2026 10:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 490.0
+    "pnl": 60.0
   },
   {
     "time": "07/08/2026 10:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 430.0
+    "pnl": -60.0
   },
   {
     "time": "07/08/2026 13:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 370.0
+    "pnl": -60.0
   },
   {
     "time": "07/08/2026 14:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 430.0
+    "pnl": 60.0
   },
   {
     "time": "07/08/2026 14:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 370.0
+    "pnl": -60.0
   },
   {
     "time": "07/08/2026 16:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 380.0
+    "pnl": 10.0
   },
   {
     "time": "10/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 440.0
+    "pnl": 60.0
   },
   {
     "time": "10/08/2026 09:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 380.0
+    "pnl": -60.0
   },
   {
     "time": "10/08/2026 10:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 440.0
+    "pnl": 60.0
   },
   {
     "time": "10/08/2026 11:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 500.0
+    "pnl": 60.0
   },
   {
     "time": "10/08/2026 13:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 560.0
+    "pnl": 60.0
   },
   {
     "time": "10/08/2026 14:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 620.0
+    "pnl": 60.0
   },
   {
     "time": "10/08/2026 14:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 560.0
+    "pnl": -60.0
   },
   {
     "time": "10/08/2026 16:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 525.0
+    "pnl": -35.0
   },
   {
     "time": "11/08/2026 09:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 585.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 10:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 645.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 10:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 705.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 11:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 765.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 11:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 825.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 11:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 885.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 11:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 945.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 11:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 885.0
+    "pnl": -60.0
   },
   {
     "time": "11/08/2026 12:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 945.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 12:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1005.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 12:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1065.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 15:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1125.0
+    "pnl": 60.0
   },
   {
     "time": "11/08/2026 15:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1065.0
+    "pnl": -60.0
   },
   {
     "time": "12/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1125.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 09:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1185.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 09:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1245.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 10:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1305.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 10:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1365.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 14:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1425.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 16:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1485.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 16:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1545.0
+    "pnl": 60.0
   },
   {
     "time": "12/08/2026 16:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1525.0
+    "pnl": -20.0
   },
   {
     "time": "13/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1465.0
+    "pnl": -60.0
   },
   {
     "time": "13/08/2026 09:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1525.0
+    "pnl": 60.0
   },
   {
     "time": "13/08/2026 09:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1585.0
+    "pnl": 60.0
   },
   {
     "time": "13/08/2026 09:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1525.0
+    "pnl": -60.0
   },
   {
     "time": "13/08/2026 10:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1585.0
+    "pnl": 60.0
   },
   {
     "time": "13/08/2026 10:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1525.0
+    "pnl": -60.0
   },
   {
     "time": "13/08/2026 10:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1525.0
+    "pnl": 0.0
   },
   {
     "time": "13/08/2026 10:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1585.0
+    "pnl": 60.0
   },
   {
     "time": "13/08/2026 11:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1525.0
+    "pnl": -60.0
   },
   {
     "time": "13/08/2026 13:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1465.0
+    "pnl": -60.0
   },
   {
     "time": "13/08/2026 14:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1445.0
+    "pnl": -20.0
   },
   {
     "time": "14/08/2026 09:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1385.0
+    "pnl": -60.0
   },
   {
     "time": "14/08/2026 09:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1325.0
+    "pnl": -60.0
   },
   {
     "time": "14/08/2026 09:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1385.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 09:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1385.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 10:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1445.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 10:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1505.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 10:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1565.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 10:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1565.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 12:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1625.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 12:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1685.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 12:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1745.0
+    "pnl": 60.0
   },
   {
     "time": "14/08/2026 14:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1685.0
+    "pnl": -60.0
   },
   {
     "time": "14/08/2026 16:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1625.0
+    "pnl": -60.0
   },
   {
     "time": "17/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1565.0
+    "pnl": -60.0
   },
   {
     "time": "17/08/2026 09:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1625.0
+    "pnl": 60.0
   },
   {
     "time": "17/08/2026 10:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1625.0
+    "pnl": 0.0
   },
   {
     "time": "17/08/2026 10:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1565.0
+    "pnl": -60.0
   },
   {
     "time": "17/08/2026 10:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1505.0
+    "pnl": -60.0
   },
   {
     "time": "17/08/2026 11:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1565.0
+    "pnl": 60.0
   },
   {
     "time": "17/08/2026 11:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1625.0
+    "pnl": 60.0
   },
   {
     "time": "17/08/2026 11:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1565.0
+    "pnl": -60.0
   },
   {
     "time": "17/08/2026 12:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1505.0
+    "pnl": -60.0
   },
   {
     "time": "17/08/2026 14:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1520.0
+    "pnl": 15.0
   },
   {
     "time": "18/08/2026 09:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1580.0
+    "pnl": 60.0
   },
   {
     "time": "18/08/2026 09:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1520.0
+    "pnl": -60.0
   },
   {
     "time": "18/08/2026 09:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1580.0
+    "pnl": 60.0
   },
   {
     "time": "18/08/2026 10:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1520.0
+    "pnl": -60.0
   },
   {
     "time": "18/08/2026 10:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1580.0
+    "pnl": 60.0
   },
   {
     "time": "18/08/2026 11:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1640.0
+    "pnl": 60.0
   },
   {
     "time": "18/08/2026 12:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1700.0
+    "pnl": 60.0
   },
   {
     "time": "18/08/2026 12:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1640.0
+    "pnl": -60.0
   },
   {
     "time": "18/08/2026 14:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1580.0
+    "pnl": -60.0
   },
   {
     "time": "18/08/2026 15:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1640.0
+    "pnl": 60.0
   },
   {
     "time": "18/08/2026 15:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1655.0
+    "pnl": 15.0
   },
   {
     "time": "19/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1715.0
+    "pnl": 60.0
   },
   {
     "time": "19/08/2026 09:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1775.0
+    "pnl": 60.0
   },
   {
     "time": "19/08/2026 09:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1835.0
+    "pnl": 60.0
   },
   {
     "time": "19/08/2026 09:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1775.0
+    "pnl": -60.0
   },
   {
     "time": "19/08/2026 09:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1835.0
+    "pnl": 60.0
   },
   {
     "time": "19/08/2026 10:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1895.0
+    "pnl": 60.0
   },
   {
     "time": "19/08/2026 10:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1835.0
+    "pnl": -60.0
   },
   {
     "time": "19/08/2026 12:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1895.0
+    "pnl": 60.0
   },
   {
     "time": "19/08/2026 13:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1835.0
+    "pnl": -60.0
   },
   {
     "time": "19/08/2026 15:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1775.0
+    "pnl": -60.0
   },
   {
     "time": "19/08/2026 15:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1715.0
+    "pnl": -60.0
   },
   {
     "time": "19/08/2026 16:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1750.0
+    "pnl": 35.0
   },
   {
     "time": "20/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1690.0
+    "pnl": -60.0
   },
   {
     "time": "20/08/2026 09:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1630.0
+    "pnl": -60.0
   },
   {
     "time": "20/08/2026 10:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1690.0
+    "pnl": 60.0
   },
   {
     "time": "20/08/2026 10:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1630.0
+    "pnl": -60.0
   },
   {
     "time": "20/08/2026 10:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1570.0
+    "pnl": -60.0
   },
   {
     "time": "20/08/2026 11:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1630.0
+    "pnl": 60.0
   },
   {
     "time": "20/08/2026 12:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1570.0
+    "pnl": -60.0
   },
   {
     "time": "20/08/2026 14:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1600.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 09:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": -60.0
   },
   {
     "time": "21/08/2026 09:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": -60.0
   },
   {
     "time": "21/08/2026 10:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1420.0
+    "pnl": -60.0
   },
   {
     "time": "21/08/2026 10:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": 60.0
   },
   {
     "time": "21/08/2026 11:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": 60.0
   },
   {
     "time": "21/08/2026 11:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": -60.0
   },
   {
     "time": "21/08/2026 12:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": 60.0
   },
   {
     "time": "21/08/2026 12:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1600.0
+    "pnl": 60.0
   },
   {
     "time": "21/08/2026 13:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": -60.0
   },
   {
     "time": "21/08/2026 15:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1600.0
+    "pnl": 60.0
   },
   {
     "time": "21/08/2026 15:40:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 09:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1420.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 09:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 10:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 10:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 10:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 11:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 12:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1540.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 12:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1480.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 13:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1420.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 14:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1430.0
+    "pnl": 10.0
   },
   {
     "time": "25/08/2026 09:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1490.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 09:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1430.0
+    "pnl": -60.0
   },
   {
     "time": "25/08/2026 09:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1490.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 10:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1550.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 10:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1490.0
+    "pnl": -60.0
   },
   {
     "time": "25/08/2026 14:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1550.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 16:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1570.0
+    "pnl": 20.0
   },
   {
     "time": "26/08/2026 09:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1510.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 09:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1570.0
+    "pnl": 60.0
   },
   {
     "time": "26/08/2026 09:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1630.0
+    "pnl": 60.0
   },
   {
     "time": "26/08/2026 09:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1690.0
+    "pnl": 60.0
   },
   {
     "time": "26/08/2026 10:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1630.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 10:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1570.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 11:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1510.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 12:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1450.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 13:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1495.0
+    "pnl": 45.0
   },
   {
     "time": "27/08/2026 09:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1435.0
+    "pnl": -60.0
   },
   {
     "time": "27/08/2026 09:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1495.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 10:35:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1555.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 10:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1615.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 11:50:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1675.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 12:00:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1735.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 14:45:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1675.0
+    "pnl": -60.0
   },
   {
     "time": "28/08/2026 09:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1735.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 09:55:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1795.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:10:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1855.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:15:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1915.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1975.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 2035.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 2095.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:25:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 2155.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:30:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 2155.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 13:05:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 2215.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 13:20:00",
     "strategy": "AGO_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 2155.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 09:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
   },
@@ -1539,31 +1539,31 @@
     "time": "24/08/2026 09:20:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -120.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 09:45:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -60.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 10:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 10:30:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
   },
@@ -1571,15 +1571,15 @@
     "time": "24/08/2026 10:50:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 11:35:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
   },
@@ -1587,15 +1587,15 @@
     "time": "24/08/2026 12:00:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 60.0
   },
   {
     "time": "24/08/2026 12:30:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
   },
@@ -1603,295 +1603,295 @@
     "time": "24/08/2026 13:25:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -120.0
+    "pnl": -60.0
   },
   {
     "time": "24/08/2026 14:35:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -110.0
+    "pnl": 10.0
   },
   {
     "time": "25/08/2026 09:10:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -50.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 09:25:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -110.0
+    "pnl": -60.0
   },
   {
     "time": "25/08/2026 09:45:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -50.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 10:10:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 10.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 10:15:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -50.0
+    "pnl": -60.0
   },
   {
     "time": "25/08/2026 14:50:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 10.0
+    "pnl": 60.0
   },
   {
     "time": "25/08/2026 16:50:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": 20.0
   },
   {
     "time": "26/08/2026 09:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -30.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 09:35:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": 60.0
   },
   {
     "time": "26/08/2026 09:45:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 60.0
   },
   {
     "time": "26/08/2026 09:55:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": 60.0
   },
   {
     "time": "26/08/2026 10:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 10:35:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 11:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -30.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 12:55:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -90.0
+    "pnl": -60.0
   },
   {
     "time": "26/08/2026 13:25:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -45.0
+    "pnl": 45.0
   },
   {
     "time": "27/08/2026 09:10:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -105.0
+    "pnl": -60.0
   },
   {
     "time": "27/08/2026 09:25:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -45.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 10:35:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 15.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 10:50:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 75.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 11:50:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 135.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 12:00:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 195.0
+    "pnl": 60.0
   },
   {
     "time": "27/08/2026 14:45:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 135.0
+    "pnl": -60.0
   },
   {
     "time": "28/08/2026 09:15:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 195.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 09:55:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 255.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:10:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 315.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:15:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 375.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:25:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 435.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 495.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:20:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 555.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:25:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 615.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:30:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 615.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 13:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 675.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 13:20:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 615.0
+    "pnl": -60.0
   },
   {
     "time": "28/08/2026 09:15:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 60.0
   },
@@ -1899,87 +1899,87 @@
     "time": "28/08/2026 09:55:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:10:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:15:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 10:25:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 300.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:05:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:20:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 420.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:25:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 480.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 11:30:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 480.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 13:05:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 540.0
+    "pnl": 60.0
   },
   {
     "time": "28/08/2026 13:20:00",
     "strategy": "AGO_WDO_DIARIO-28-08",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 480.0
+    "pnl": -60.0
   },
   {
     "time": "03/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -1987,15 +1987,15 @@
     "time": "03/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": -30.0
   },
   {
     "time": "03/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -2003,31 +2003,31 @@
     "time": "03/08/2026 10:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 30.0
   },
   {
     "time": "03/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": -30.0
   },
   {
     "time": "03/08/2026 11:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": -30.0
   },
   {
     "time": "03/08/2026 14:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 0.0
   },
@@ -2035,7 +2035,7 @@
     "time": "03/08/2026 14:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -30.0
   },
@@ -2043,47 +2043,47 @@
     "time": "03/08/2026 15:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -60.0
+    "pnl": -30.0
   },
   {
     "time": "03/08/2026 16:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -30.0
+    "pnl": 30.0
   },
   {
     "time": "03/08/2026 16:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -60.0
+    "pnl": -30.0
   },
   {
     "time": "04/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -30.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 0.0
   },
@@ -2091,7 +2091,7 @@
     "time": "04/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -2099,2335 +2099,2335 @@
     "time": "04/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 10:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 0.0
   },
   {
     "time": "04/08/2026 11:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 0.0
   },
   {
     "time": "04/08/2026 12:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 12:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 13:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": -30.0
   },
   {
     "time": "04/08/2026 13:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 13:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 0.0
   },
   {
     "time": "04/08/2026 14:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": 30.0
   },
   {
     "time": "04/08/2026 15:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": -30.0
   },
   {
     "time": "05/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 0.0
   },
   {
     "time": "05/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": -30.0
   },
   {
     "time": "05/08/2026 09:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 11:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 11:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 11:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": -30.0
   },
   {
     "time": "05/08/2026 12:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": -30.0
   },
   {
     "time": "05/08/2026 14:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 14:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": -30.0
   },
   {
     "time": "05/08/2026 16:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 16:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 16:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": 30.0
   },
   {
     "time": "05/08/2026 16:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 263.0
+    "pnl": -7.0
   },
   {
     "time": "06/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 233.0
+    "pnl": -30.0
   },
   {
     "time": "06/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 233.0
+    "pnl": 0.0
   },
   {
     "time": "06/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 203.0
+    "pnl": -30.0
   },
   {
     "time": "06/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 203.0
+    "pnl": 0.0
   },
   {
     "time": "06/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 233.0
+    "pnl": 30.0
   },
   {
     "time": "06/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 263.0
+    "pnl": 30.0
   },
   {
     "time": "06/08/2026 11:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 293.0
+    "pnl": 30.0
   },
   {
     "time": "06/08/2026 12:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 263.0
+    "pnl": -30.0
   },
   {
     "time": "06/08/2026 12:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 293.0
+    "pnl": 30.0
   },
   {
     "time": "06/08/2026 13:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 323.0
+    "pnl": 30.0
   },
   {
     "time": "06/08/2026 13:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 293.0
+    "pnl": -30.0
   },
   {
     "time": "06/08/2026 13:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 263.0
+    "pnl": -30.0
   },
   {
     "time": "06/08/2026 16:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 293.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 323.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 353.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 09:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 353.0
+    "pnl": 0.0
   },
   {
     "time": "07/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 10:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 10:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 11:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 11:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "07/08/2026 11:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 12:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 0.0
   },
   {
     "time": "07/08/2026 13:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 13:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "07/08/2026 15:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "07/08/2026 15:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "07/08/2026 15:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "10/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 0.0
   },
   {
     "time": "10/08/2026 09:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "10/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 0.0
   },
   {
     "time": "10/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "10/08/2026 10:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "10/08/2026 11:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "10/08/2026 11:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "10/08/2026 11:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "10/08/2026 12:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 0.0
   },
   {
     "time": "10/08/2026 14:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "10/08/2026 16:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "10/08/2026 16:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "10/08/2026 16:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 0.0
   },
   {
     "time": "11/08/2026 09:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 09:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 0.0
   },
   {
     "time": "11/08/2026 10:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 11:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 12:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 12:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 12:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 12:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 14:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 14:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "11/08/2026 15:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "11/08/2026 15:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "12/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 09:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 09:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "12/08/2026 10:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "12/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "12/08/2026 10:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 0.0
   },
   {
     "time": "12/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 0.0
   },
   {
     "time": "12/08/2026 13:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 13:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "12/08/2026 13:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 14:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 14:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 14:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 15:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "12/08/2026 15:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "12/08/2026 15:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 16:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "12/08/2026 16:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 09:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 10:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 10:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 10:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 13:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 14:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 14:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 353.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 15:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 323.0
+    "pnl": -30.0
   },
   {
     "time": "13/08/2026 15:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 353.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 16:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": 30.0
   },
   {
     "time": "13/08/2026 17:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": -30.0
   },
   {
     "time": "14/08/2026 09:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 09:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 353.0
+    "pnl": -30.0
   },
   {
     "time": "14/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 383.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 09:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 09:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 13:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 14:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 14:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "14/08/2026 16:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 413.0
+    "pnl": -30.0
   },
   {
     "time": "14/08/2026 16:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 16:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": 0.0
   },
   {
     "time": "14/08/2026 16:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "14/08/2026 16:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 0.0
   },
   {
     "time": "17/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 09:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "17/08/2026 09:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "17/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 10:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "17/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 10:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "17/08/2026 11:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "17/08/2026 11:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 12:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "17/08/2026 13:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 14:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 0.0
   },
   {
     "time": "17/08/2026 14:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "17/08/2026 14:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 15:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "17/08/2026 16:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "17/08/2026 16:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "18/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "18/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "18/08/2026 09:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "18/08/2026 10:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 0.0
   },
   {
     "time": "18/08/2026 10:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "18/08/2026 10:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 443.0
+    "pnl": -30.0
   },
   {
     "time": "18/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": 30.0
   },
   {
     "time": "18/08/2026 10:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "18/08/2026 14:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 473.0
+    "pnl": -30.0
   },
   {
     "time": "18/08/2026 15:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": 30.0
   },
   {
     "time": "18/08/2026 15:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "18/08/2026 15:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "18/08/2026 15:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 09:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 503.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 09:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 10:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 593.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": 0.0
   },
   {
     "time": "19/08/2026 10:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 593.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 10:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 10:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 593.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 14:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 14:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "19/08/2026 15:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "19/08/2026 16:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "19/08/2026 16:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 0.0
   },
   {
     "time": "20/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 593.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 09:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 653.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 10:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 683.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 10:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 713.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 10:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 683.0
+    "pnl": -30.0
   },
   {
     "time": "20/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 713.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 10:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 683.0
+    "pnl": -30.0
   },
   {
     "time": "20/08/2026 11:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 653.0
+    "pnl": -30.0
   },
   {
     "time": "20/08/2026 12:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 653.0
+    "pnl": 0.0
   },
   {
     "time": "20/08/2026 14:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 683.0
+    "pnl": 30.0
   },
   {
     "time": "20/08/2026 14:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 653.0
+    "pnl": -30.0
   },
   {
     "time": "20/08/2026 15:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": -30.0
   },
   {
     "time": "20/08/2026 16:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 593.0
+    "pnl": -30.0
   },
   {
     "time": "20/08/2026 16:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": -30.0
   },
   {
     "time": "21/08/2026 09:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": -30.0
   },
   {
     "time": "21/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "21/08/2026 09:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "21/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 533.0
+    "pnl": 0.0
   },
   {
     "time": "21/08/2026 10:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 563.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 593.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 10:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 10:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 623.0
+    "pnl": 0.0
   },
   {
     "time": "21/08/2026 12:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 653.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 13:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 683.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 15:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 713.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 15:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 743.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 16:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 773.0
+    "pnl": 30.0
   },
   {
     "time": "21/08/2026 16:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 773.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 803.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 773.0
+    "pnl": -30.0
   },
   {
     "time": "24/08/2026 09:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 803.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 09:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 833.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 10:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 833.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 10:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 833.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 863.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 10:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 893.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 10:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 923.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 11:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 923.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 14:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 953.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 14:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 923.0
+    "pnl": -30.0
   },
   {
     "time": "24/08/2026 15:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 923.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 16:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 893.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 863.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 09:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 893.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 09:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 863.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 833.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 10:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 863.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 10:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 863.0
+    "pnl": 0.0
   },
   {
     "time": "25/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 833.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 10:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 803.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 12:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 833.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 12:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 863.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 12:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 893.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 13:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 893.0
+    "pnl": 0.0
   },
   {
     "time": "25/08/2026 14:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 923.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 14:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 953.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 15:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 983.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 16:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1013.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 16:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 16:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1013.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 16:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 983.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1013.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 983.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 09:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 953.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 09:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 983.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1013.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": 0.0
   },
   {
     "time": "26/08/2026 10:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1073.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 10:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 10:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1073.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 10:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": 0.0
   },
   {
     "time": "26/08/2026 12:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1043.0
+    "pnl": 0.0
   },
   {
     "time": "26/08/2026 13:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1073.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 13:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1103.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 13:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1073.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 14:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1103.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 15:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 15:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 15:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 16:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1103.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 0.0
   },
   {
     "time": "27/08/2026 09:30:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 0.0
   },
   {
     "time": "27/08/2026 09:50:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 09:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1193.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 10:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1193.0
+    "pnl": 0.0
   },
   {
     "time": "27/08/2026 10:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 14:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1193.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 14:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 14:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 15:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1103.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 16:00:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:10:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 09:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 09:40:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1193.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:55:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 10:15:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1163.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 10:35:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 11:20:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 13:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1103.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 13:45:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1103.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 15:25:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1133.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 16:05:00",
     "strategy": "AGO_WIN-MENSAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1146.0
+    "pnl": 13.0
   },
   {
     "time": "24/08/2026 09:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -4435,15 +4435,15 @@
     "time": "24/08/2026 09:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": -30.0
   },
   {
     "time": "24/08/2026 09:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -4451,607 +4451,607 @@
     "time": "24/08/2026 09:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 10:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 10:30:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 10:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 10:40:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 10:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 11:00:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 14:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 30.0
   },
   {
     "time": "24/08/2026 14:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": -30.0
   },
   {
     "time": "24/08/2026 15:20:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": 0.0
   },
   {
     "time": "24/08/2026 16:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 09:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 09:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 09:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 10:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 10:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 10:30:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 0.0
   },
   {
     "time": "25/08/2026 10:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 10:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 12:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 12:40:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 12:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 13:00:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 120.0
+    "pnl": 0.0
   },
   {
     "time": "25/08/2026 14:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 150.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 14:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 15:50:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 16:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 16:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": 30.0
   },
   {
     "time": "25/08/2026 16:30:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": -30.0
   },
   {
     "time": "25/08/2026 16:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 09:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 09:20:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 180.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 09:30:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 210.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 240.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:40:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 09:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": 0.0
   },
   {
     "time": "26/08/2026 10:00:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 300.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 10:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 10:20:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 300.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 10:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 10:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": 0.0
   },
   {
     "time": "26/08/2026 12:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 270.0
+    "pnl": 0.0
   },
   {
     "time": "26/08/2026 13:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 300.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 13:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 330.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 13:50:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 300.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 14:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 330.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 15:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 15:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": 30.0
   },
   {
     "time": "26/08/2026 15:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": -30.0
   },
   {
     "time": "26/08/2026 16:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 330.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 09:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 09:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 0.0
   },
   {
     "time": "27/08/2026 09:30:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 0.0
   },
   {
     "time": "27/08/2026 09:50:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 09:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 420.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 10:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 420.0
+    "pnl": 0.0
   },
   {
     "time": "27/08/2026 10:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 14:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 420.0
+    "pnl": 30.0
   },
   {
     "time": "27/08/2026 14:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 14:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 15:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 330.0
+    "pnl": -30.0
   },
   {
     "time": "27/08/2026 16:00:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:10:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 09:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 09:40:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 420.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:55:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 10:15:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 390.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 10:35:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 11:20:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 13:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 330.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 13:45:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 330.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 15:25:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 360.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 16:05:00",
     "strategy": "AGO_WIN-SEMANAL",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 367.0
+    "pnl": 7.0
   },
   {
     "time": "28/08/2026 09:05:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -5059,55 +5059,55 @@
     "time": "28/08/2026 09:10:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 09:25:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 09:40:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 09:55:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 10:15:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 30.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 10:35:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": -30.0
   },
   {
     "time": "28/08/2026 11:20:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 0.0
   },
@@ -5115,7 +5115,7 @@
     "time": "28/08/2026 13:05:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -30.0
   },
@@ -5123,23 +5123,23 @@
     "time": "28/08/2026 13:45:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": -30.0
+    "pnl": 0.0
   },
   {
     "time": "28/08/2026 15:25:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 16:05:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 30.0
   },
@@ -5147,23 +5147,23 @@
     "time": "28/08/2026 16:30:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 60.0
+    "pnl": 30.0
   },
   {
     "time": "28/08/2026 16:35:00",
     "strategy": "AGO_WIN_DIARIO-28-08",
     "asset": "WINV26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 90.0
+    "pnl": 30.0
   },
   {
     "time": "02/06/2026 14:05:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
   },
@@ -5171,15 +5171,15 @@
     "time": "03/06/2026 13:55:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 0.0
+    "pnl": 60.0
   },
   {
     "time": "05/06/2026 09:25:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
     "pnl": 60.0
   },
@@ -5187,272 +5187,272 @@
     "time": "05/06/2026 09:40:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 230.0
+    "pnl": 170.0
   },
   {
     "time": "05/06/2026 10:40:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 295.0
+    "pnl": 65.0
   },
   {
     "time": "05/06/2026 17:05:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 380.0
+    "pnl": 85.0
   },
   {
     "time": "08/06/2026 11:20:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 320.0
+    "pnl": -60.0
   },
   {
     "time": "09/06/2026 11:50:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 425.0
+    "pnl": 105.0
   },
   {
     "time": "09/06/2026 13:35:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 290.0
+    "pnl": -135.0
   },
   {
     "time": "11/06/2026 10:05:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 230.0
+    "pnl": -60.0
   },
   {
     "time": "11/06/2026 10:40:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 335.0
+    "pnl": 105.0
   },
   {
     "time": "11/06/2026 14:30:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 395.0
+    "pnl": 60.0
   },
   {
     "time": "11/06/2026 14:35:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 455.0
+    "pnl": 60.0
   },
   {
     "time": "11/06/2026 16:25:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 515.0
+    "pnl": 60.0
   },
   {
     "time": "12/06/2026 10:20:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 580.0
+    "pnl": 65.0
   },
   {
     "time": "12/06/2026 15:30:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 620.0
+    "pnl": 40.0
   },
   {
     "time": "15/06/2026 12:00:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 760.0
+    "pnl": 140.0
   },
   {
     "time": "15/06/2026 18:20:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 665.0
+    "pnl": -95.0
   },
   {
     "time": "16/06/2026 09:55:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 815.0
+    "pnl": 150.0
   },
   {
     "time": "17/06/2026 10:30:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 875.0
+    "pnl": 60.0
   },
   {
     "time": "18/06/2026 11:45:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 995.0
+    "pnl": 120.0
   },
   {
     "time": "18/06/2026 13:10:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1060.0
+    "pnl": 65.0
   },
   {
     "time": "18/06/2026 14:30:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1120.0
+    "pnl": 60.0
   },
   {
     "time": "22/06/2026 10:00:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1220.0
+    "pnl": 100.0
   },
   {
     "time": "22/06/2026 11:15:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1280.0
+    "pnl": 60.0
   },
   {
     "time": "22/06/2026 11:30:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1365.0
+    "pnl": 85.0
   },
   {
     "time": "22/06/2026 18:05:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1330.0
+    "pnl": -35.0
   },
   {
     "time": "23/06/2026 09:15:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1435.0
+    "pnl": 105.0
   },
   {
     "time": "23/06/2026 10:30:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1520.0
+    "pnl": 85.0
   },
   {
     "time": "23/06/2026 15:55:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1450.0
+    "pnl": -70.0
   },
   {
     "time": "24/06/2026 09:45:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1390.0
+    "pnl": -60.0
   },
   {
     "time": "25/06/2026 12:50:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1460.0
+    "pnl": 70.0
   },
   {
     "time": "26/06/2026 10:25:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1415.0
+    "pnl": -45.0
   },
   {
     "time": "30/06/2026 09:20:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1475.0
+    "pnl": 60.0
   },
   {
     "time": "30/06/2026 09:55:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1415.0
+    "pnl": -60.0
   },
   {
     "time": "30/06/2026 13:50:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1355.0
+    "pnl": -60.0
   },
   {
     "time": "30/06/2026 17:35:00",
     "strategy": "JUN_WDO-MENSAL",
     "asset": "WDOU26",
-    "type": "VENDA",
+    "type": "COMPRA",
     "qty": 1,
-    "pnl": 1400.0
+    "pnl": 45.0
   }
 ]
