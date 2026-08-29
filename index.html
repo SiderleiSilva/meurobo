@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Painel de Monitoramento de Estratégias</title>
     
-    <!-- TAGS ANTI-CACHE -->
+    <!-- TAGS ANTI-CACHE SEVERAS -->
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
@@ -32,26 +32,24 @@
 
         .header {
             display: flex;
-            justify-content: space-between;
+            flex-direction: column;
             align-items: center;
-            flex-wrap: wrap;
             gap: 15px;
             padding-bottom: 20px;
             border-bottom: 1px solid var(--border-color);
             margin-bottom: 20px;
+            text-align: center;
         }
 
         .header h1 {
             margin: 0;
-            font-size: 1.5rem;
+            font-size: 1.6rem;
             color: #fff;
-            text-align: center;
-            width: 100%;
         }
 
         .filters-container {
             display: flex;
-            gap: 15px;
+            gap: 12px;
             align-items: center;
             justify-content: center;
             flex-wrap: wrap;
@@ -61,12 +59,14 @@
         .filter-group {
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
         }
 
         .filter-group label {
             color: var(--text-sub);
-            font-size: 0.9rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
         }
 
         .strategy-selector {
@@ -75,9 +75,13 @@
             border: 1px solid var(--border-color);
             padding: 8px 12px;
             border-radius: 6px;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             outline: none;
             cursor: pointer;
+        }
+
+        .strategy-selector:focus {
+            border-color: var(--accent-blue);
         }
 
         @media (max-width: 768px) {
@@ -90,7 +94,7 @@
 
         .metrics-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
             gap: 15px;
             margin-bottom: 25px;
         }
@@ -103,14 +107,15 @@
         }
 
         .metric-card .title {
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             color: var(--text-sub);
             margin-bottom: 8px;
             text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         .metric-card .value {
-            font-size: 1.6rem;
+            font-size: 1.5rem;
             font-weight: bold;
         }
 
@@ -139,16 +144,17 @@
 
         th {
             color: var(--text-sub);
-            font-weight: 500;
+            font-weight: 600;
             padding: 12px;
             border-bottom: 1px solid var(--border-color);
-            font-size: 0.9rem;
+            font-size: 0.85rem;
+            text-transform: uppercase;
         }
 
         td {
             padding: 12px;
             border-bottom: 1px solid var(--border-color);
-            font-size: 0.95rem;
+            font-size: 0.9rem;
         }
 
         tr:hover {
@@ -158,7 +164,7 @@
         .badge {
             padding: 4px 8px;
             border-radius: 4px;
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             font-weight: bold;
         }
 
@@ -169,9 +175,20 @@
 <body>
 
     <div class="header">
-        <h1>📊 Monitor de Estratégias - Profit Pro 📊</h1>
+        <h1>📊 Monitor de Estratégias 📊</h1>
         <div class="filters-container">
-            <!-- Filtro 1: Seleção de Mês -->
+            
+            <!-- Filtro 1: Ativo -->
+            <div class="filter-group">
+                <label for="assetFilter">Ativo:</label>
+                <select id="assetFilter" class="strategy-selector">
+                    <option value="ALL">Todos os Ativos</option>
+                    <option value="WDO">WDO (Dólar)</option>
+                    <option value="WIN">WIN (Índice)</option>
+                </select>
+            </div>
+
+            <!-- Filtro 2: Mês -->
             <div class="filter-group">
                 <label for="monthFilter">Mês:</label>
                 <select id="monthFilter" class="strategy-selector">
@@ -191,7 +208,7 @@
                 </select>
             </div>
 
-            <!-- Filtro 2: Período -->
+            <!-- Filtro 3: Período -->
             <div class="filter-group">
                 <label for="periodFilter">Período:</label>
                 <select id="periodFilter" class="strategy-selector">
@@ -202,13 +219,14 @@
                 </select>
             </div>
 
-            <!-- Filtro 3: Arquivo / Estratégia -->
+            <!-- Filtro 4: Relatório / Arquivo -->
             <div class="filter-group">
                 <label for="strategyFilter">Relatório / Arquivo:</label>
                 <select id="strategyFilter" class="strategy-selector">
-                    <option value="ALL">Todas do Período/Mês</option>
+                    <option value="ALL">Todas as Estratégias</option>
                 </select>
             </div>
+
         </div>
     </div>
 
@@ -253,7 +271,7 @@
                 </tr>
             </thead>
             <tbody id="tradesTableBody">
-                <!-- Preenchido via JavaScript -->
+                <!-- Preenchido via JS -->
             </tbody>
         </table>
     </div>
@@ -261,20 +279,20 @@
     <script>
         let allTrades = [];
 
-        // Mapeamento de meses (aceita palavras cheias e abreviações)
-        const monthMap = {
-            'JANEIRO': ['JANEIRO', 'JAN'],
-            'FEVEREIRO': ['FEVEREIRO', 'FEV'],
-            'MARCO': ['MARCO', 'MARÇO', 'MAR'],
-            'ABRIL': ['ABRIL', 'ABR'],
-            'MAIO': ['MAIO', 'MAI'],
-            'JUNHO': ['JUNHO', 'JUN'],
-            'JULHO': ['JULHO', 'JUL'],
-            'AGOSTO': ['AGOSTO', 'AGO'],
-            'SETEMBRO': ['SETEMBRO', 'SET'],
-            'OUTUBRO': ['OUTUBRO', 'OUT'],
-            'NOVEMBRO': ['NOVEMBRO', 'NOV'],
-            'DEZEMBRO': ['DEZEMBRO', 'DEZ']
+        // Mapeamento Inteligente dos Meses
+        const monthConfig = {
+            'JANEIRO':   ['JANEIRO', 'JAN', '-01-', '/01/', '-01', '01-'],
+            'FEVEREIRO': ['FEVEREIRO', 'FEV', '-02-', '/02/', '-02', '02-'],
+            'MARCO':     ['MARCO', 'MARÇO', 'MAR', '-03-', '/03/', '-03', '03-'],
+            'ABRIL':     ['ABRIL', 'ABR', '-04-', '/04/', '-04', '04-'],
+            'MAIO':      ['MAIO', 'MAI', '-05-', '/05/', '-05', '05-'],
+            'JUNHO':     ['JUNHO', 'JUN', '-06-', '/06/', '-06', '06-'],
+            'JULHO':     ['JULHO', 'JUL', '-07-', '/07/', '-07', '07-'],
+            'AGOSTO':    ['AGOSTO', 'AGO', '-08-', '/08/', '-08', '08-', '28-08'],
+            'SETEMBRO':  ['SETEMBRO', 'SET', '-09-', '/09/', '-09', '09-'],
+            'OUTUBRO':   ['OUTUBRO', 'OUT', '-10-', '/10/', '-10', '10-'],
+            'NOVEMBRO':  ['NOVEMBRO', 'NOV', '-11-', '/11/', '-11', '11-'],
+            'DEZEMBRO':  ['DEZEMBRO', 'DEZ', '-12-', '/12/', '-12', '12-']
         };
 
         function formatarMoeda(valor) {
@@ -285,45 +303,59 @@
         }
 
         function getCategory(stratName) {
-            const name = stratName.toUpperCase();
+            const name = (stratName || '').toUpperCase();
             if (name.includes('MENSAL')) return 'MENSAL';
             if (name.includes('SEMANAL')) return 'SEMANAL';
             return 'DIARIO';
         }
 
-        function matchesMonth(stratName, selectedMonth) {
-            if (selectedMonth === 'ALL') return true;
-            const name = stratName.toUpperCase();
-            const keywords = monthMap[selectedMonth] || [selectedMonth];
-            return keywords.some(key => name.includes(key));
+        function matchesAsset(trade, selectedAsset) {
+            if (selectedAsset === 'ALL') return true;
+            const assetName = (trade.asset || '').toUpperCase();
+            const stratName = (trade.strategy || '').toUpperCase();
+            return assetName.includes(selectedAsset) || stratName.includes(selectedAsset);
         }
 
-        async function loadData() {
-            try {
-                const response = await fetch('trades_data.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('Erro ao carregar os dados');
-                allTrades = await response.json();
-                
-                setupFilters();
-                renderDashboard();
-            } catch (error) {
-                console.error("Erro na requisição:", error);
-            }
+        function matchesMonth(trade, selectedMonth) {
+            if (selectedMonth === 'ALL') return true;
+            const keys = monthConfig[selectedMonth] || [selectedMonth];
+            const textToSearch = `${trade.strategy || ''} ${trade.time || ''}`.toUpperCase();
+            return keys.some(key => textToSearch.includes(key));
         }
+
+      async function loadData() {
+    try {
+        // Adiciona timestamp dinâmico para EVITAR CACHE do navegador
+        const cacheBuster = new Date().getTime();
+        
+        // Força a busca do JSON atualizado no disco sem armazenar em cache
+        const response = await fetch(`trades_data.json?v=${cacheBuster}`, { cache: 'no-store' });
+        
+        if (!response.ok) throw new Error('Erro ao carregar os dados');
+        allTrades = await response.json();
+        
+        setupFilters();
+        renderDashboard();
+    } catch (error) {
+        console.error("Erro ao carregar trades_data.json:", error);
+    }
+}
 
         function setupFilters() {
+            const assetSelect = document.getElementById('assetFilter');
             const monthSelect = document.getElementById('monthFilter');
             const periodSelect = document.getElementById('periodFilter');
             const strategySelect = document.getElementById('strategyFilter');
 
             function updateStrategyDropdown() {
+                const selectedAsset = assetSelect.value;
                 const selectedMonth = monthSelect.value;
                 const selectedPeriod = periodSelect.value;
 
-                let filtered = allTrades;
+                let filtered = allTrades.filter(t => matchesAsset(t, selectedAsset));
 
                 if (selectedMonth !== 'ALL') {
-                    filtered = filtered.filter(t => matchesMonth(t.strategy, selectedMonth));
+                    filtered = filtered.filter(t => matchesMonth(t, selectedMonth));
                 }
 
                 if (selectedPeriod !== 'ALL') {
@@ -332,7 +364,7 @@
 
                 const strategies = [...new Set(filtered.map(t => t.strategy))];
                 
-                strategySelect.innerHTML = '<option value="ALL">Todas do Período/Mês</option>';
+                strategySelect.innerHTML = '<option value="ALL">Todas as Estratégias</option>';
                 strategies.forEach(strat => {
                     const option = document.createElement('option');
                     option.value = strat;
@@ -341,32 +373,24 @@
                 });
             }
 
-            monthSelect.addEventListener('change', () => {
-                updateStrategyDropdown();
-                renderDashboard();
-            });
-
-            periodSelect.addEventListener('change', () => {
-                updateStrategyDropdown();
-                renderDashboard();
-            });
-
-            strategySelect.addEventListener('change', () => {
-                renderDashboard();
-            });
+            assetSelect.addEventListener('change', () => { updateStrategyDropdown(); renderDashboard(); });
+            monthSelect.addEventListener('change', () => { updateStrategyDropdown(); renderDashboard(); });
+            periodSelect.addEventListener('change', () => { updateStrategyDropdown(); renderDashboard(); });
+            strategySelect.addEventListener('change', () => { renderDashboard(); });
 
             updateStrategyDropdown();
         }
 
         function renderDashboard() {
+            const selectedAsset = document.getElementById('assetFilter').value;
             const selectedMonth = document.getElementById('monthFilter').value;
             const selectedPeriod = document.getElementById('periodFilter').value;
             const selectedStrategy = document.getElementById('strategyFilter').value;
 
-            let filteredTrades = allTrades;
+            let filteredTrades = allTrades.filter(t => matchesAsset(t, selectedAsset));
 
             if (selectedMonth !== 'ALL') {
-                filteredTrades = filteredTrades.filter(t => matchesMonth(t.strategy, selectedMonth));
+                filteredTrades = filteredTrades.filter(t => matchesMonth(t, selectedMonth));
             }
 
             if (selectedPeriod !== 'ALL') {
@@ -377,6 +401,7 @@
                 filteredTrades = filteredTrades.filter(t => t.strategy === selectedStrategy);
             }
 
+            // Cálculos
             const totalPnl = filteredTrades.reduce((acc, t) => acc + t.pnl, 0);
             const gains = filteredTrades.filter(t => t.pnl > 0);
             const losses = filteredTrades.filter(t => t.pnl < 0);
@@ -394,6 +419,7 @@
                 payoff = "∞";
             }
 
+            // Atualização dos Cartões
             const pnlElement = document.getElementById('totalPnl');
             pnlElement.textContent = formatarMoeda(totalPnl);
             pnlElement.className = `value ${totalPnl >= 0 ? 'gain' : 'loss'}`;
@@ -404,6 +430,7 @@
             document.getElementById('totalTrades').textContent = totalTradesCount;
             document.getElementById('payoff').textContent = payoff;
 
+            // Atualização da Tabela
             const tbody = document.getElementById('tradesTableBody');
             tbody.innerHTML = '';
 
