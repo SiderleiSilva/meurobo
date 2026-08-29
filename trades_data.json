@@ -1528,6 +1528,14 @@
     "pnl": -60.0
   },
   {
+    "time": "28/08/2026 16:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -15.0
+  },
+  {
     "time": "24/08/2026 09:05:00",
     "strategy": "AGO_WDO-SEMANAL",
     "asset": "WDOU26",
