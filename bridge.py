@@ -2,6 +2,8 @@ import os
 import json
 import csv
 import subprocess
+import time
+from datetime import datetime
 
 def clean_float(val_str):
     if not val_str:
@@ -41,7 +43,6 @@ def parse_csv_file(filepath):
     if not lines:
         return []
 
-    # Detecta o delimitador correto contando a frequência nos primeiros 20 dados
     sample = "".join(lines[:20])
     semis = sample.count(';')
     commas = sample.count(',')
@@ -54,7 +55,6 @@ def parse_csv_file(filepath):
     else:
         delimiter = '\t'
 
-    # Localiza o cabeçalho correto ignorando títulos no topo
     header_idx = -1
     header = []
 
@@ -70,7 +70,6 @@ def parse_csv_file(filepath):
         header_idx = 0
         header = [c.strip().lower() for c in lines[0].split(delimiter)]
 
-    # Mapeamento flexível das colunas
     time_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['horario', 'horário', 'data', 'time', 'fechamento', 'abertura', 'dt.'])), -1)
     asset_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['ativo', 'instrumento', 'asset', 'papel', 'symbol'])), -1)
     type_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['tipo', 'lado', 'operacao', 'operação', 'c/v'])), -1)
@@ -116,7 +115,7 @@ def process_all_csvs():
     all_trades = []
     csv_files = [f for f in os.listdir('.') if f.lower().endswith('.csv')]
     
-    print(f"📁 Lendo {len(csv_files)} arquivos CSV na pasta:")
+    print(f"📁 Lendo {len(csv_files)} arquivos CSV na pasta...")
     for f in csv_files:
         trades = parse_csv_file(f)
         print(f"  └─ {f}: {len(trades)} trades extraídos.")
@@ -125,7 +124,7 @@ def process_all_csvs():
     with open('trades_data.json', 'w', encoding='utf-8') as jf:
         json.dump(all_trades, jf, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ Total consolidado: {len(all_trades)} trades salvos em 'trades_data.json'!")
+    print(f"✅ Total consolidado: {len(all_trades)} trades salvos em 'trades_data.json'!")
 
 def push_to_git():
     try:
@@ -140,6 +139,32 @@ def push_to_git():
         print(f"⚠️ Git: {e}")
 
 if __name__ == "__main__":
-    print("🚀 Processando arquivos...")
-    process_all_csvs()
-    push_to_git()
+    print("==================================================")
+    print("🚀 MONITOR DE ESTRATÉGIAS ATIVADO E RODANDO!")
+    print("👀 Aguardando alterações nos arquivos CSV da pasta...")
+    print("==================================================\n")
+    
+    last_files_state = {}
+
+    while True:
+        try:
+            # Mapeia os arquivos CSV e suas datas de modificação
+            current_files_state = {
+                f: os.path.getmtime(f) for f in os.listdir('.') if f.lower().endswith('.csv')
+            }
+
+            # Se houver qualquer modificação, adição ou remoção de CSV
+            if current_files_state != last_files_state:
+                now = datetime.now().strftime("%H:%M:%S")
+                print(f"[{now}] 🔔 Alteração detectada nos relatórios! Atualizando...")
+                
+                process_all_csvs()
+                push_to_git()
+                
+                last_files_state = current_files_state
+                print(f"[{now}] 🟢 Monitoramento ativo. Aguardando próximas mudanças...\n")
+
+        except Exception as e:
+            print(f"⚠️ Erro durante monitoramento: {e}")
+
+        time.sleep(3)  # Checa a pasta a cada 3 segundos
