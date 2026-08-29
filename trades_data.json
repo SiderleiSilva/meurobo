@@ -1,1 +1,5458 @@
-[]
+[
+  {
+    "time": "03/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 09:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 09:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 10:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 10:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 11:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 11:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 14:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 16:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 09:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 09:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 10:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 10:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 11:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 12:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 14:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 15:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 15:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 15:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 15:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 09:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 10:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 11:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 11:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 11:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 13:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 14:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 16:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 09:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 10:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 12:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 13:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 09:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 13:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 14:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 14:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 16:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 09:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 10:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 11:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 13:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 14:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 14:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 16:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 09:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 10:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 10:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 11:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 11:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 11:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 11:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 11:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 15:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 15:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 14:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 16:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 16:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 16:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 11:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 13:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 14:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 12:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 12:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 12:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 14:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 16:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 09:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 11:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 11:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 11:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 12:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 14:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 09:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 09:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 09:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 11:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 12:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 12:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 14:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 15:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 15:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 12:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 13:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 15:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 15:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 16:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 09:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 11:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 12:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 14:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 09:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 09:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 11:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 11:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 12:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 12:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 13:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 15:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 15:40:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 11:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 12:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 12:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 13:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 14:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 14:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 11:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 12:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:35:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 11:50:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 12:00:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:45:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:55:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:10:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:15:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:25:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:30:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:05:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:20:00",
+    "strategy": "AGO_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:20:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:45:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:30:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:50:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 11:35:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 12:00:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 12:30:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 13:25:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 14:35:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:10:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:25:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:45:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:10:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:15:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 14:50:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:50:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:35:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:45:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:55:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:35:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 11:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 12:55:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:25:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:10:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:25:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:35:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:50:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 11:50:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 12:00:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:45:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:15:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:55:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:10:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:15:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:25:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:20:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:25:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:30:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:05:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:20:00",
+    "strategy": "AGO_WDO-SEMANAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:15:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:55:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:10:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:15:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:25:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:05:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:20:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:25:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:30:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:05:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:20:00",
+    "strategy": "AGO_WDO_DIARIO-28-08",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 10:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 11:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 14:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 14:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 15:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 16:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/08/2026 16:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 10:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 11:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 12:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 12:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 13:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 13:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 13:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 14:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "04/08/2026 15:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 09:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 11:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 11:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 11:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 12:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 14:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 14:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 16:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 16:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 16:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/08/2026 16:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 11:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 12:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 12:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 13:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 13:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 13:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "06/08/2026 16:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 09:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 10:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 11:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 11:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 11:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 12:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 13:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 13:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 15:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 15:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "07/08/2026 15:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 09:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 10:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 11:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 11:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 11:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 12:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 14:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 16:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 16:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "10/08/2026 16:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 09:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 09:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 10:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 11:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 12:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 14:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 14:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 15:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/08/2026 15:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 09:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 13:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 13:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 13:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 14:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 14:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 14:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 15:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 15:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 15:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 16:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/08/2026 16:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 09:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 10:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 13:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 14:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 14:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 15:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 15:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 16:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "13/08/2026 17:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 09:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 13:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 14:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 14:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 16:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 16:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 16:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 16:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "14/08/2026 16:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 09:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 09:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 10:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 11:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 11:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 12:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 13:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 14:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 14:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 14:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 15:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 16:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/08/2026 16:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 09:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 10:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 14:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 15:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 15:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 15:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/08/2026 15:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 09:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 10:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 14:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 14:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 15:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 16:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "19/08/2026 16:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 09:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 10:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 11:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 12:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 14:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 14:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 15:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 16:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "20/08/2026 16:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 09:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 09:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 10:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 12:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 13:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 15:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 15:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 16:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "21/08/2026 16:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 11:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 14:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 14:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 15:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 16:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 12:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 12:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 12:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 13:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 14:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 14:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 15:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 12:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 14:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 15:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 15:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 15:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 16:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:30:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:50:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 15:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 16:00:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:10:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:40:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:55:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:15:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:35:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:20:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:45:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 15:25:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 16:05:00",
+    "strategy": "AGO_WIN-MENSAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 09:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:30:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:40:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 10:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 11:00:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 14:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 14:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 15:20:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/08/2026 16:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 09:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:30:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 10:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 12:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 12:40:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 12:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 13:00:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 14:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 14:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 15:50:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:30:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/08/2026 16:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:20:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:30:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:40:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 09:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:00:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:20:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 10:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 12:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 13:50:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 14:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 15:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 15:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 15:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/08/2026 16:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:30:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:50:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 09:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 10:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 14:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 15:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "27/08/2026 16:00:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:10:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:40:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:55:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:15:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:35:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:20:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:45:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 15:25:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 16:05:00",
+    "strategy": "AGO_WIN-SEMANAL",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:05:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:10:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:25:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:40:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 09:55:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:15:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 10:35:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 11:20:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:05:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 13:45:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 15:25:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 16:05:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 16:30:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "28/08/2026 16:35:00",
+    "strategy": "AGO_WIN_DIARIO-28-08",
+    "asset": "WINV26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/06/2026 14:05:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "03/06/2026 13:55:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/06/2026 09:25:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/06/2026 09:40:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/06/2026 10:40:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "05/06/2026 17:05:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "08/06/2026 11:20:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "09/06/2026 11:50:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "09/06/2026 13:35:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/06/2026 10:05:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/06/2026 10:40:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/06/2026 14:30:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/06/2026 14:35:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "11/06/2026 16:25:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/06/2026 10:20:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "12/06/2026 15:30:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "15/06/2026 12:00:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "15/06/2026 18:20:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "16/06/2026 09:55:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "17/06/2026 10:30:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/06/2026 11:45:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/06/2026 13:10:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "18/06/2026 14:30:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "22/06/2026 10:00:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "22/06/2026 11:15:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "22/06/2026 11:30:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "22/06/2026 18:05:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "23/06/2026 09:15:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "23/06/2026 10:30:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "23/06/2026 15:55:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "24/06/2026 09:45:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "25/06/2026 12:50:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "26/06/2026 10:25:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "30/06/2026 09:20:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "30/06/2026 09:55:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "30/06/2026 13:50:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "30/06/2026 17:35:00",
+    "strategy": "JUN_WDO-MENSAL",
+    "asset": "WDOU26",
+    "type": "VENDA",
+    "qty": 1,
+    "pnl": 0.0
+  }
+]

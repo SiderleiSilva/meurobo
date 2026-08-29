@@ -6,11 +6,9 @@ import subprocess
 def clean_float(val_str):
     if not val_str:
         return 0.0
-    # Limpa moeda, espaços e sinais de formatação
     s = str(val_str).replace('R$', '').replace(' ', '').replace('+', '').strip()
     if not s:
         return 0.0
-    # Trata formato brasileiro (ex: 1.500,50 ou -150,00)
     if '.' in s and ',' in s:
         s = s.replace('.', '').replace(',', '.')
     elif ',' in s:
@@ -31,7 +29,7 @@ def parse_csv_file(filepath):
         try:
             with open(filepath, 'r', encoding=enc) as f:
                 content = f.readlines()
-            if content:
+            if content and len(content) > 0:
                 break
         except Exception:
             continue
@@ -39,40 +37,50 @@ def parse_csv_file(filepath):
     if not content:
         return []
 
-    content = [line for line in content if line.strip()]
-    if not content:
+    lines = [line.strip() for line in content if line.strip()]
+    if not lines:
         return []
 
-    # Detecta o separador (; ou , ou TAB)
-    first_line = content[0]
-    delimiter = ';' if ';' in first_line else (',' if ',' in first_line else '\t')
+    # Detecta o delimitador correto contando a frequência nos primeiros 20 dados
+    sample = "".join(lines[:20])
+    semis = sample.count(';')
+    commas = sample.count(',')
+    tabs = sample.count('\t')
 
-    # Encontra dinamicamente a linha do cabeçalho
+    if semis >= commas and semis >= tabs:
+        delimiter = ';'
+    elif commas >= semis and commas >= tabs:
+        delimiter = ','
+    else:
+        delimiter = '\t'
+
+    # Localiza o cabeçalho correto ignorando títulos no topo
     header_idx = -1
     header = []
 
-    for idx, line in enumerate(content[:10]):
-        row = [c.strip().lower() for c in line.split(delimiter)]
-        if any(k in ' '.join(row) for k in ['resultado', 'lucro', 'pnl', 'ativo', 'tipo', 'lado', 'qtd', 'quantidade', 'operação', 'operacao', 'liquido', 'líquido']):
+    for idx, line in enumerate(lines[:15]):
+        cols = [c.strip().lower() for c in line.split(delimiter)]
+        line_str = " ".join(cols)
+        if any(k in line_str for k in ['resultado', 'lucro', 'pnl', 'ativo', 'tipo', 'lado', 'qtd', 'quantidade', 'operação', 'operacao', 'liquido', 'líquido']):
             header_idx = idx
-            header = row
+            header = cols
             break
 
     if header_idx == -1:
         header_idx = 0
-        header = [c.strip().lower() for c in content[0].split(delimiter)]
+        header = [c.strip().lower() for c in lines[0].split(delimiter)]
 
-    # Mapeamento flexível de colunas
-    time_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['horario', 'horário', 'data', 'time', 'fechamento', 'abertura'])), -1)
-    asset_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['ativo', 'instrumento', 'asset', 'papel'])), -1)
+    # Mapeamento flexível das colunas
+    time_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['horario', 'horário', 'data', 'time', 'fechamento', 'abertura', 'dt.'])), -1)
+    asset_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['ativo', 'instrumento', 'asset', 'papel', 'symbol'])), -1)
     type_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['tipo', 'lado', 'operacao', 'operação', 'c/v'])), -1)
     qty_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['qtd', 'quantidade', 'volume', 'contratos'])), -1)
-    pnl_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['resultado', 'lucro', 'pnl', 'liquido', 'líquido', 'prejuizo', 'prejuízo', 'retorno', 'r$'])), -1)
+    pnl_idx = next((i for i, c in enumerate(header) if any(k in c for k in ['resultado', 'lucro', 'pnl', 'liquido', 'líquido', 'retorno'])), -1)
 
     trades = []
-    for line in content[header_idx + 1:]:
+    for line in lines[header_idx + 1:]:
         row = [c.strip() for c in line.split(delimiter)]
-        if not row or len(row) < 2:
+        if len(row) < 2:
             continue
 
         try:
@@ -108,7 +116,7 @@ def process_all_csvs():
     all_trades = []
     csv_files = [f for f in os.listdir('.') if f.lower().endswith('.csv')]
     
-    print(f"📁 Lendo {len(csv_files)} arquivos CSV...")
+    print(f"📁 Lendo {len(csv_files)} arquivos CSV na pasta:")
     for f in csv_files:
         trades = parse_csv_file(f)
         print(f"  └─ {f}: {len(trades)} trades extraídos.")
@@ -117,7 +125,7 @@ def process_all_csvs():
     with open('trades_data.json', 'w', encoding='utf-8') as jf:
         json.dump(all_trades, jf, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ 'trades_data.json' atualizado com sucesso!")
+    print(f"\n✅ Total consolidado: {len(all_trades)} trades salvos em 'trades_data.json'!")
 
 def push_to_git():
     try:
@@ -127,10 +135,11 @@ def push_to_git():
         subprocess.run(['git', 'add', '.'], check=True)
         subprocess.run(['git', 'commit', '-m', 'Auto-update trades'], check=True)
         subprocess.run(['git', 'push', 'origin', 'main', '--force'], check=True)
-        print("🌐 GitHub atualizado!")
+        print("🌐 GitHub atualizado com sucesso!")
     except Exception as e:
         print(f"⚠️ Git: {e}")
 
 if __name__ == "__main__":
+    print("🚀 Processando arquivos...")
     process_all_csvs()
     push_to_git()
