@@ -40,6 +40,14 @@
     "pnl": 180.0
   },
   {
+    "time": "31/08/2026 11:00:25",
+    "strategy": "31 AGOSTO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 3,
+    "pnl": 180.0
+  },
+  {
     "time": "03/08/2026 09:05:00",
     "strategy": "AGO_WDO-1SEMANA",
     "asset": "WDOU26",
