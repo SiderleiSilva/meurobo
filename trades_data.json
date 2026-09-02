@@ -48,6 +48,246 @@
     "pnl": 180.0
   },
   {
+    "time": "02/09/2026 09:02:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:08:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:14:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:46:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:16:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:24:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:26:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:28:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:36:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:44:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:54:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:18:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:28:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 12:04:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 13:22:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 14:24:00",
+    "strategy": "AGO_WDO - 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -40.0
+  },
+  {
+    "time": "02/09/2026 09:10:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:20:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:25:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:45:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:15:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:25:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:30:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:45:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:55:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:15:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:25:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:30:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 12:50:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 16:25:00",
+    "strategy": "AGO_WDO - 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 10.0
+  },
+  {
     "time": "01/09/2026 09:02:00",
     "strategy": "AGO_WDO - MEIO DIA 2MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
@@ -120,15 +360,119 @@
     "pnl": 60.0
   },
   {
-    "time": "01/09/2026 09:05:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "time": "02/09/2026 09:02:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:08:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:14:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:46:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
     "qty": 1,
     "pnl": 60.0
   },
   {
-    "time": "01/09/2026 09:10:00",
+    "time": "02/09/2026 10:16:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:24:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:26:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:28:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:36:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:44:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:54:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:18:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:28:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 12:04:00",
+    "strategy": "AGO_WDO - MEIO DIA 2MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -5.0
+  },
+  {
+    "time": "02/09/2026 09:10:00",
     "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
@@ -136,7 +480,7 @@
     "pnl": -60.0
   },
   {
-    "time": "01/09/2026 09:20:00",
+    "time": "02/09/2026 09:20:00",
     "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
@@ -144,7 +488,7 @@
     "pnl": -60.0
   },
   {
-    "time": "01/09/2026 09:35:00",
+    "time": "02/09/2026 09:25:00",
     "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
@@ -152,7 +496,7 @@
     "pnl": -60.0
   },
   {
-    "time": "01/09/2026 09:45:00",
+    "time": "02/09/2026 09:45:00",
     "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
@@ -160,60 +504,172 @@
     "pnl": 60.0
   },
   {
-    "time": "01/09/2026 10:15:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
-    "asset": "WDOV26",
-    "type": "COMPRA",
-    "qty": 1,
-    "pnl": 60.0
-  },
-  {
-    "time": "01/09/2026 10:30:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
-    "asset": "WDOV26",
-    "type": "COMPRA",
-    "qty": 1,
-    "pnl": 60.0
-  },
-  {
-    "time": "01/09/2026 10:40:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
-    "asset": "WDOV26",
-    "type": "COMPRA",
-    "qty": 1,
-    "pnl": 60.0
-  },
-  {
-    "time": "01/09/2026 10:50:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
-    "asset": "WDOV26",
-    "type": "COMPRA",
-    "qty": 1,
-    "pnl": 60.0
-  },
-  {
-    "time": "01/09/2026 10:55:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
-    "asset": "WDOV26",
-    "type": "COMPRA",
-    "qty": 1,
-    "pnl": 60.0
-  },
-  {
-    "time": "01/09/2026 11:05:00",
-    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
-    "asset": "WDOV26",
-    "type": "COMPRA",
-    "qty": 1,
-    "pnl": 60.0
-  },
-  {
-    "time": "01/09/2026 11:40:00",
+    "time": "02/09/2026 10:15:00",
     "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
     "qty": 1,
     "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:25:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:30:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:45:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:55:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:15:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:25:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:30:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 12:50:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 16:25:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 01 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 10.0
+  },
+  {
+    "time": "02/09/2026 09:10:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:20:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:25:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 09:45:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:15:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:25:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:30:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 10:45:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "02/09/2026 10:55:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:15:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "02/09/2026 11:25:00",
+    "strategy": "AGO_WDO - MEIO DIA 5MIN - 02 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 75.0
   },
   {
     "time": "03/08/2026 09:05:00",
@@ -8614,6 +9070,486 @@
     "type": "COMPRA",
     "qty": 1,
     "pnl": -15.0
+  },
+  {
+    "time": "02/09/2026 09:04:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 09:06:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 09:10:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 09:22:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 09:32:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 09:34:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 09:48:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 10:02:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 10:04:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:16:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:20:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:24:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 10:26:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 10:28:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:30:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:34:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 10:36:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:52:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 11:16:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 11:18:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 11:22:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 11:38:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 12:02:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 12:04:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 13:18:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 13:32:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 13:40:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 13:48:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 14:04:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 14:22:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 14:44:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 14:56:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 15:00:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 15:04:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 15:16:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 15:32:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 16:08:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 16:12:00",
+    "strategy": "AGO_WIN - 2MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 09:05:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 09:25:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 09:35:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 09:45:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 09:50:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:05:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:15:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:25:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 10:30:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:35:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 10:45:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 10:55:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 11:00:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 11:20:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 12:05:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 14:25:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 15:00:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 15:05:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 15:20:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
+    "time": "02/09/2026 15:35:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "02/09/2026 16:15:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "02/09/2026 17:00:00",
+    "strategy": "AGO_WIN - 5MIN - 02 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -3.0
   },
   {
     "time": "01/09/2026 09:06:00",

@@ -190,6 +190,7 @@ if __name__ == "__main__":
                 process_all_csvs()
                 push_to_git()
                 
+                
                 last_files_state = current_files_state
                 print(f"[{now}] 🟢 Monitoramento ativo. Aguardando alterações...\n")
 
