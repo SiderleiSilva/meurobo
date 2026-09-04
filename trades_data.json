@@ -43304,6 +43304,62 @@
     "pnl": 10.0
   },
   {
+    "time": "04/09/2026 09:05:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/09/2026 09:35:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/09/2026 10:05:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "04/09/2026 12:10:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "04/09/2026 13:15:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "04/09/2026 14:05:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "04/09/2026 15:50:00",
+    "strategy": "SET_WDO - 5MIN - 04 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 0.0
+  },
+  {
     "time": "01/09/2026 09:02:00",
     "strategy": "SET_WDO - MEIO DIA 2MIN - 01 DE SETEMBRO",
     "asset": "WDOV26",
@@ -44256,6 +44312,174 @@
     "pnl": 1.0
   },
   {
+    "time": "04/09/2026 09:04:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 09:28:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 09:32:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 09:46:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 10:02:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 10:14:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 10:18:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 10:26:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 10:28:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 11:14:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 11:40:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 12:22:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 12:50:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 12:58:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 13:04:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 13:52:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 14:40:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 15:56:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 16:26:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 16:30:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 16:32:00",
+    "strategy": "SET_WIN - 2MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
     "time": "02/09/2026 09:05:00",
     "strategy": "SET_WIN - 5MIN - 02 DE SETEMBRO",
     "asset": "WINV26",
@@ -44506,6 +44730,94 @@
   {
     "time": "03/09/2026 16:00:00",
     "strategy": "SET_WIN - 5MIN - 03 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 09:05:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 09:30:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 09:35:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 09:45:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 10:05:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 10:20:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 10:30:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 10:55:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 14:40:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -30.0
+  },
+  {
+    "time": "04/09/2026 16:30:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 30.0
+  },
+  {
+    "time": "04/09/2026 16:35:00",
+    "strategy": "SET_WIN - 5MIN - 04 DE SETEMBRO",
     "asset": "WINV26",
     "type": "COMPRA",
     "qty": 1,
