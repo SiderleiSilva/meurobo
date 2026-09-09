@@ -2208,6 +2208,46 @@
     "pnl": -15.0
   },
   {
+    "time": "09/09/2026 09:50:00",
+    "strategy": "SET_WDO-9 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "09/09/2026 09:55:00",
+    "strategy": "SET_WDO-9 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "09/09/2026 10:20:00",
+    "strategy": "SET_WDO-9 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "09/09/2026 10:55:00",
+    "strategy": "SET_WDO-9 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "09/09/2026 12:05:00",
+    "strategy": "SET_WDO-9 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
     "time": "31/08/2026 10:30:00",
     "strategy": "SET_WDO-PRIMEIRA-SEMANA",
     "asset": "WDOV26",
