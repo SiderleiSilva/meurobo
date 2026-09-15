@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Monitoramento de Estratégias</title>
+    
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <style>
+        :root {
+            --bg-dark: #121418;
+            --card-bg: #1e222d;
+            --accent-blue: #2962ff;
+            --green-gain: #089981;
+            --red-loss: #f23645;
+            --text-main: #d1d4dc;
+            --text-sub: #787b86;
+            --border-color: #2a2e39;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+        }
+
+        .header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 1.6rem;
+            color: #fff;
+        }
+
+        .filters-container {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .filter-group label {
+            color: var(--text-sub);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .strategy-selector {
+            background-color: var(--card-bg);
+            color: var(--text-main);
+            border: 1px solid var(--border-color);
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .strategy-selector:focus {
+            border-color: var(--accent-blue);
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .metric-card {
+            background-color: var(--card-bg);
+            padding: 18px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+        }
+
+        .metric-card .title {
+            font-size: 0.8rem;
+            color: var(--text-sub);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+
+        .metric-card .value {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .gain { color: var(--green-gain); }
+        .loss { color: var(--red-loss); }
+
+        .table-container {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            padding: 20px;
+            overflow-x: auto;
+        }
+
+        .table-title {
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        th {
+            color: var(--text-sub);
+            font-weight: 600;
+            padding: 12px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.9rem;
+        }
+
+        tr:hover {
+            background-color: rgba(255, 255, 255, 0.02);
+        }
+
+        .badge {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+
+        .badge-buy { background-color: rgba(8, 153, 129, 0.2); color: var(--green-gain); }
+        .badge-sell { background-color: rgba(242, 54, 69, 0.2); color: var(--red-loss); }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>📊 Monitor de Estratégias 📊</h1>
+        <p>JUNHO / JULHO / AGOSTO</p>
+        <div class="filters-container">
+            
+            <div class="filter-group">
+                <label for="assetFilter">ATIVO:</label>
+                <select id="assetFilter" class="strategy-selector">
+                    <option value="ALL">Todos os Ativos</option>
+                    <option value="WDO">WDO (Dólar)</option>
+                    <option value="WIN">WIN (Índice)</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="monthFilter">MÊS:</label>
+                <select id="monthFilter" class="strategy-selector">
+                    <option value="ALL">Todos os Meses</option>
+                    <option value="JAN">Janeiro</option>
+                    <option value="FEV">Fevereiro</option>
+                    <option value="MAR">Março</option>
+                    <option value="ABR">Abril</option>
+                    <option value="MAI">Maio</option>
+                    <option value="JUN">Junho</option>
+                    <option value="JUL">Julho</option>
+                    <option value="AGO">Agosto</option>
+                    <option value="SET">Setembro</option>
+                    <option value="OUT">Outubro</option>
+                    <option value="NOV">Novembro</option>
+                    <option value="DEZ">Dezembro</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="periodFilter">PERÍODO:</label>
+                <select id="periodFilter" class="strategy-selector">
+                    <option value="ALL">Todos os Períodos</option>
+                    <option value="DIARIO">Diário</option>
+                    <option value="SEMANAL">Semanal</option>
+                    <option value="MENSAL">Mensal</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="strategyFilter">RELATÓRIO / ARQUIVO:</label>
+                <select id="strategyFilter" class="strategy-selector">
+                    <option value="ALL">Todas as Estratégias</option>
+                </select>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <div class="title">Resultado do Período</div>
+            <div class="value" id="totalPnl">R$ 0.00</div>
+        </div>
+        <div class="metric-card">
+            <div class="title">Taxa de Acerto (Win Rate)</div>
+            <div class="value" id="winRate">0.0%</div>
+        </div>
+        <div class="metric-card">
+            <div class="title">Operações Gain</div>
+            <div class="value gain" id="gainCount">0</div>
+        </div>
+        <div class="metric-card">
+            <div class="title">Operações Loss</div>
+            <div class="value loss" id="lossCount">0</div>
+        </div>
+        <div class="metric-card">
+            <div class="title">Total de Operações</div>
+            <div class="value" id="totalTrades">0</div>
+        </div>
+        <div class="metric-card">
+            <div class="title">Fator de Lucro (Payoff)</div>
+            <div class="value" id="payoff">0.00</div>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <h2 class="table-title">Histórico de Operações</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Horário</th>
+                    <th>Estratégia</th>
+                    <th>Ativo</th>
+                    <th>Tipo</th>
+                    <th>Qtd</th>
+                    <th>Resultado (R$)</th>
+                </tr>
+            </thead>
+            <tbody id="tradesTableBody"></tbody>
+        </table>
+    </div>
+
+    <script>
+        let allTrades = [];
+
+        function formatarMoeda(valor) {
+            const partes = Math.abs(valor).toFixed(2).split('.');
+            partes[0] = partes[0].replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+            const sinal = valor < 0 ? '-' : '';
+            return `${sinal}R$ ${partes[0]}.${partes[1]}`;
+        }
+
+        async function loadData() {
+            try {
+                const cacheBuster = new Date().getTime();
+                const response = await fetch(`trades_data.json?v=${cacheBuster}`, { cache: 'no-store' });
+                if (!response.ok) throw new Error('Erro ao carregar os dados');
+                allTrades = await response.json();
+                
+                setupFilters();
+                renderDashboard();
+            } catch (error) {
+                console.error("Erro ao carregar trades_data.json:", error);
+            }
+        }
+
+        function setupFilters() {
+            const assetSelect = document.getElementById('assetFilter');
+            const monthSelect = document.getElementById('monthFilter');
+            const periodSelect = document.getElementById('periodFilter');
+            const strategySelect = document.getElementById('strategyFilter');
+
+            function updateStrategyOptions() {
+                const selAsset = assetSelect.value;
+                const selMonth = monthSelect.value;
+                const selPeriod = periodSelect.value;
+
+                let filtered = allTrades.filter(t => {
+                    const strat = (t.strategy || '').toUpperCase();
+                    const asset = (t.asset || '').toUpperCase();
+                    
+                    const matchAsset = selAsset === 'ALL' || strat.includes(selAsset) || asset.includes(selAsset);
+                    const matchMonth = selMonth === 'ALL' || strat.includes(selMonth);
+                    const matchPeriod = selPeriod === 'ALL' || strat.includes(selPeriod);
+
+                    return matchAsset && matchMonth && matchPeriod;
+                });
+
+                const strategies = [...new Set(filtered.map(t => t.strategy))];
+                strategySelect.innerHTML = '<option value="ALL">Todas as Estratégias</option>';
+                strategies.forEach(s => {
+                    const opt = document.createElement('option');
+                    opt.value = s;
+                    opt.textContent = s;
+                    strategySelect.appendChild(opt);
+                });
+            }
+
+            [assetSelect, monthSelect, periodSelect].forEach(elem => {
+                elem.addEventListener('change', () => {
+                    updateStrategyOptions();
+                    renderDashboard();
+                });
+            });
+
+            strategySelect.addEventListener('change', renderDashboard);
+            updateStrategyOptions();
+        }
+
+        function renderDashboard() {
+            const selAsset = document.getElementById('assetFilter').value;
+            const selMonth = document.getElementById('monthFilter').value;
+            const selPeriod = document.getElementById('periodFilter').value;
+            const selStrategy = document.getElementById('strategyFilter').value;
+
+            let filtered = allTrades.filter(t => {
+                const strat = (t.strategy || '').toUpperCase();
+                const asset = (t.asset || '').toUpperCase();
+
+                const matchAsset = selAsset === 'ALL' || strat.includes(selAsset) || asset.includes(selAsset);
+                const matchMonth = selMonth === 'ALL' || strat.includes(selMonth);
+                const matchPeriod = selPeriod === 'ALL' || strat.includes(selPeriod);
+                const matchStrategy = selStrategy === 'ALL' || t.strategy === selStrategy;
+
+                return matchAsset && matchMonth && matchPeriod && matchStrategy;
+            });
+
+            const totalPnl = filtered.reduce((acc, t) => acc + t.pnl, 0);
+            const gains = filtered.filter(t => t.pnl > 0);
+            const losses = filtered.filter(t => t.pnl < 0);
+            const totalCount = filtered.length;
+            const winRate = totalCount > 0 ? ((gains.length / totalCount) * 100).toFixed(1) : 0.0;
+
+            const sumGain = gains.reduce((acc, t) => acc + t.pnl, 0);
+            const sumLoss = Math.abs(losses.reduce((acc, t) => acc + t.pnl, 0));
+            const payoff = sumLoss > 0 ? (sumGain / sumLoss).toFixed(2) : (sumGain > 0 ? "∞" : "0.00");
+
+            const pnlElem = document.getElementById('totalPnl');
+            pnlElem.textContent = formatarMoeda(totalPnl);
+            pnlElem.className = `value ${totalPnl >= 0 ? 'gain' : 'loss'}`;
+
+            document.getElementById('winRate').textContent = `${winRate}%`;
+            document.getElementById('gainCount').textContent = gains.length;
+            document.getElementById('lossCount').textContent = losses.length;
+            document.getElementById('totalTrades').textContent = totalCount;
+            document.getElementById('payoff').textContent = payoff;
+
+            const tbody = document.getElementById('tradesTableBody');
+            tbody.innerHTML = '';
+
+            filtered.forEach((trade, i) => {
+                const tr = document.createElement('tr');
+                const pnlClass = trade.pnl >= 0 ? 'gain' : 'loss';
+                const badgeClass = trade.type === 'COMPRA' ? 'badge-buy' : 'badge-sell';
+
+                tr.innerHTML = `
+                    <td>${trade.time || `Trade #${i + 1}`}</td>
+                    <td><strong>${trade.strategy}</strong></td>
+                    <td>${trade.asset}</td>
+                    <td><span class="badge ${badgeClass}">${trade.type}</span></td>
+                    <td>${trade.qty}</td>
+                    <td class="${pnlClass}"><strong>${formatarMoeda(trade.pnl)}</strong></td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        loadData();
+    </script>
+</body>
+</html>
