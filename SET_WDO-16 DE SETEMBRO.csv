@@ -1,0 +1,8 @@
+Conta: 26471
+Titular: SIDERLEI SILVA
+Data: 16/09/2026
+
+Ativo;Abertura;Fechamento;Tempo Operação;Qtd Compra;Qtd Venda;Lado;Preço Compra;Preço Venda;Preço de Mercado;Médio;Res. Intervalo Bruto;Res. Intervalo (%);Número Operação;Res. Operação;Res. Operação (%);TET;Comissões;Total
+WDOV26;16/09/2026 09:40:00;16/09/2026 09:55:00;15min;1;1;C;5.165,50;5.171,50;5.166,00;Não;60,00;6,00;1;60,00;6,00; - ;0,00;60,00
+WDOV26;16/09/2026 10:05:00;16/09/2026 10:25:00;20min;1;1;C;5.177,50;5.171,50;5.166,00;Não;-60,00;-6,00;2;-60,00;-6,00;25min;0,00;0,00
+WDOV26;16/09/2026 10:35:00;16/09/2026 10:40:00;5min;1;1;C;5.178,50;5.172,50;5.166,00;Não;-60,00;-6,00;3;-60,00;-6,00;30min;0,00;-60,00
