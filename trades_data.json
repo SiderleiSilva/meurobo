@@ -2192,7 +2192,7 @@
     "pnl": 60.0
   },
   {
-    "time": "16/09/2026 09:40:00",
+    "time": "17/09/2026 10:05:00",
     "strategy": "SET_WDO-16 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
@@ -2200,20 +2200,28 @@
     "pnl": 60.0
   },
   {
-    "time": "16/09/2026 10:05:00",
+    "time": "17/09/2026 10:40:00",
     "strategy": "SET_WDO-16 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
     "qty": 1,
-    "pnl": -60.0
+    "pnl": 60.0
   },
   {
-    "time": "16/09/2026 10:35:00",
-    "strategy": "SET_WDO-16 DE SETEMBRO",
+    "time": "17/09/2026 10:05:00",
+    "strategy": "SET_WDO-17 DE SETEMBRO",
     "asset": "WDOV26",
     "type": "COMPRA",
     "qty": 1,
-    "pnl": -60.0
+    "pnl": 60.0
+  },
+  {
+    "time": "17/09/2026 10:40:00",
+    "strategy": "SET_WDO-17 DE SETEMBRO",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
   },
   {
     "time": "01/09/2026 10:35:00",
@@ -2542,6 +2550,22 @@
     "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
+  },
+  {
+    "time": "17/09/2026 10:05:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "17/09/2026 10:40:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
   },
   {
     "time": "31/08/2026 10:30:00",
@@ -2966,5 +2990,21 @@
     "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
+  },
+  {
+    "time": "17/09/2026 10:05:00",
+    "strategy": "SET_WDO-TERCEIRA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "17/09/2026 10:40:00",
+    "strategy": "SET_WDO-TERCEIRA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
   }
 ]
