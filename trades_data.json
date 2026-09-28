@@ -2624,6 +2624,54 @@
     "pnl": -60.0
   },
   {
+    "time": "28/09/2026 09:45:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "28/09/2026 10:00:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 10:15:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 11:55:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "28/09/2026 14:15:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 14:55:00",
+    "strategy": "SET_WDO-MENSAL",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 35.0
+  },
+  {
     "time": "31/08/2026 10:30:00",
     "strategy": "SET_WDO-PRIMEIRA-SEMANA",
     "asset": "WDOV26",
@@ -3014,6 +3062,54 @@
     "type": "COMPRA",
     "qty": 1,
     "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 09:45:00",
+    "strategy": "SET_WDO-QUINTA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "28/09/2026 10:00:00",
+    "strategy": "SET_WDO-QUINTA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 10:15:00",
+    "strategy": "SET_WDO-QUINTA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 11:55:00",
+    "strategy": "SET_WDO-QUINTA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 60.0
+  },
+  {
+    "time": "28/09/2026 14:15:00",
+    "strategy": "SET_WDO-QUINTA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": -60.0
+  },
+  {
+    "time": "28/09/2026 14:55:00",
+    "strategy": "SET_WDO-QUINTA SEMANA",
+    "asset": "WDOV26",
+    "type": "COMPRA",
+    "qty": 1,
+    "pnl": 35.0
   },
   {
     "time": "08/09/2026 09:45:00",
