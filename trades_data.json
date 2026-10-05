@@ -2128,6 +2128,38 @@
     "pnl": 45.0
   },
   {
+    "time": "05/10/2026 09:23:29",
+    "strategy": "OUT_WIN- 5 DE OUTUBRO",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 3,
+    "pnl": 231.0
+  },
+  {
+    "time": "05/10/2026 09:23:29",
+    "strategy": "OUT_WIN- 5 DE OUTUBRO_2",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 3,
+    "pnl": 231.0
+  },
+  {
+    "time": "05/10/2026 10:00:15",
+    "strategy": "OUT_WIN- 5 DE OUTUBRO_2",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 2,
+    "pnl": 28.0
+  },
+  {
+    "time": "05/10/2026 10:01:08",
+    "strategy": "OUT_WIN- 5 DE OUTUBRO_2",
+    "asset": "WINV26",
+    "type": "COMPRA",
+    "qty": 2,
+    "pnl": 62.0
+  },
+  {
     "time": "01/09/2026 10:35:00",
     "strategy": "SET_WDO-MENSAL",
     "asset": "WDOV26",
